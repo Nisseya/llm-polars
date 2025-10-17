@@ -1,0 +1,457 @@
+[
+    {
+        "id": 30292,
+        "ref": "neuromusic/avocado-prices",
+        "url": "https://www.kaggle.com/datasets/neuromusic/avocado-prices",
+        "subtitle": "Historical data on avocado prices and sales volume in multiple US markets",
+        "totalbytes": 643781
+    },
+    {
+        "id": 2818963,
+        "ref": "karkavelrajaj/amazon-sales-dataset",
+        "url": "https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset",
+        "subtitle": "This dataset is having the data of 1K+ Amazon Product's Ratings and Reviews",
+        "totalbytes": 2043633
+    },
+    {
+        "id": 435,
+        "ref": "kyanyoga/sample-sales-data",
+        "url": "https://www.kaggle.com/datasets/kyanyoga/sample-sales-data",
+        "subtitle": "Denormalize Sales Data : Segmentation, Clustering, Shipping, etc.",
+        "totalbytes": 79402
+    },
+    {
+        "id": 2296,
+        "ref": "manjeetsingh/retaildataset",
+        "url": "https://www.kaggle.com/datasets/manjeetsingh/retaildataset",
+        "subtitle": "Historical sales data from 45 stores",
+        "totalbytes": 3258525
+    },
+    {
+        "id": 1940216,
+        "ref": "vivek468/superstore-dataset-final",
+        "url": "https://www.kaggle.com/datasets/vivek468/superstore-dataset-final",
+        "subtitle": "Dataset containing Sales & Profits of a Superstore",
+        "totalbytes": 562846
+    },
+    {
+        "id": 3808038,
+        "ref": "iamsouravbanerjee/customer-shopping-trends-dataset",
+        "url": "https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset",
+        "subtitle": "Journey into Consumer Insights and Retail Evolution with Synthetic Data",
+        "totalbytes": 149846
+    },
+    {
+        "id": 1815,
+        "ref": "vikrishnan/boston-house-prices",
+        "url": "https://www.kaggle.com/datasets/vikrishnan/boston-house-prices",
+        "subtitle": "Regression predictive modeling machine learning problem from end-to-end Python",
+        "totalbytes": 13146
+    },
+    {
+        "id": 835308,
+        "ref": "rohitsahoo/sales-forecasting",
+        "url": "https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting",
+        "subtitle": "Predict Sales using Time Series",
+        "totalbytes": 491942
+    },
+    {
+        "id": 863934,
+        "ref": "datatattle/covid-19-nlp-text-classification",
+        "url": "https://www.kaggle.com/datasets/datatattle/covid-19-nlp-text-classification",
+        "subtitle": "Corona Virus Tagged Data",
+        "totalbytes": 4595012
+    },
+    {
+        "id": 877335,
+        "ref": "heeraldedhia/groceries-dataset",
+        "url": "https://www.kaggle.com/datasets/heeraldedhia/groceries-dataset",
+        "subtitle": "Dataset of 38765 rows for Market Basket Analysis",
+        "totalbytes": 263057
+    },
+    {
+        "id": 828,
+        "ref": "starbucks/store-locations",
+        "url": "https://www.kaggle.com/datasets/starbucks/store-locations",
+        "subtitle": "Name, ownership type, and location of every Starbucks store in operation",
+        "totalbytes": 1149144
+    },
+    {
+        "id": 6784624,
+        "ref": "atharvasoundankar/chocolate-sales",
+        "url": "https://www.kaggle.com/datasets/atharvasoundankar/chocolate-sales",
+        "subtitle": "A Comprehensive Dataset for Analyzing Chocolate Sales Trends",
+        "totalbytes": 14473
+    },
+    {
+        "id": 6149964,
+        "ref": "bhadramohit/customer-shopping-latest-trends-dataset",
+        "url": "https://www.kaggle.com/datasets/bhadramohit/customer-shopping-latest-trends-dataset",
+        "subtitle": "\"Consumer Shopping Trends: Insights into Purchase Behavior and Patterns\"",
+        "totalbytes": 77715
+    },
+    {
+        "id": 5328600,
+        "ref": "ihelon/coffee-sales",
+        "url": "https://www.kaggle.com/datasets/ihelon/coffee-sales",
+        "subtitle": "Coffee sales in a vending machine",
+        "totalbytes": 43929
+    },
+    {
+        "id": 898072,
+        "ref": "arslanali4343/real-estate-dataset",
+        "url": "https://www.kaggle.com/datasets/arslanali4343/real-estate-dataset",
+        "subtitle": "Dragon Real Estate - Price Predictor",
+        "totalbytes": 11993
+    },
+    {
+        "id": 30292,
+        "ref": "neuromusic/avocado-prices",
+        "url": "https://www.kaggle.com/datasets/neuromusic/avocado-prices",
+        "subtitle": "Historical data on avocado prices and sales volume in multiple US markets",
+        "totalbytes": 643781
+    },
+    {
+        "id": 4458,
+        "ref": "uciml/red-wine-quality-cortez-et-al-2009",
+        "url": "https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009",
+        "subtitle": "Simple and clean practice dataset for regression or classification modelling",
+        "totalbytes": 26176
+    },
+    {
+        "id": 1292407,
+        "ref": "adityakadiwal/water-potability",
+        "url": "https://www.kaggle.com/datasets/adityakadiwal/water-potability",
+        "subtitle": "Drinking water potability",
+        "totalbytes": 256729
+    },
+    {
+        "id": 2049755,
+        "ref": "muratkokludataset/pistachio-dataset",
+        "url": "https://www.kaggle.com/datasets/muratkokludataset/pistachio-dataset",
+        "subtitle": "Pistachio Dataset; 2 Class - Kirmizi and Siirt Pistachio, 16 and 28 Features",
+        "totalbytes": 1904509
+    },
+    {
+        "id": 2048923,
+        "ref": "muratkokludataset/rice-dataset-commeo-and-osmancik",
+        "url": "https://www.kaggle.com/datasets/muratkokludataset/rice-dataset-commeo-and-osmancik",
+        "subtitle": "Rice Dataset: 2 Class Commeo and Osmancik Rice",
+        "totalbytes": 536353
+    },
+    {
+        "id": 522275,
+        "ref": "teejmahal20/airline-passenger-satisfaction",
+        "url": "https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction",
+        "subtitle": "What factors lead to customer satisfaction for an Airline?",
+        "totalbytes": 2841945
+    },
+    {
+        "id": 9366,
+        "ref": "residentmario/ramen-ratings",
+        "url": "https://www.kaggle.com/datasets/residentmario/ramen-ratings",
+        "subtitle": "Over 2500 ramen ratings",
+        "totalbytes": 40762
+    },
+    {
+        "id": 3495122,
+        "ref": "nelgiriyewithana/countries-of-the-world-2023",
+        "url": "https://www.kaggle.com/datasets/nelgiriyewithana/countries-of-the-world-2023",
+        "subtitle": "A Comprehensive Dataset Empowering In-Depth Analysis and Cross-Country Insights",
+        "totalbytes": 24063
+    },
+    {
+        "id": 117,
+        "ref": "miroslavsabo/young-people-survey",
+        "url": "https://www.kaggle.com/datasets/miroslavsabo/young-people-survey",
+        "subtitle": "Explore the preferences, interests, habits, opinions, and fears of young people",
+        "totalbytes": 85769
+    },
+    {
+        "id": 1866301,
+        "ref": "yasserh/wine-quality-dataset",
+        "url": "https://www.kaggle.com/datasets/yasserh/wine-quality-dataset",
+        "subtitle": "Wine Quality Prediction - Classification Prediction",
+        "totalbytes": 21984
+    },
+    {
+        "id": 231310,
+        "ref": "jealousleopard/goodreadsbooks",
+        "url": "https://www.kaggle.com/datasets/jealousleopard/goodreadsbooks",
+        "subtitle": "comprehensive list of books listed in goodreads",
+        "totalbytes": 637338
+    },
+    {
+        "id": 2033872,
+        "ref": "muratkokludataset/pumpkin-seeds-dataset",
+        "url": "https://www.kaggle.com/datasets/muratkokludataset/pumpkin-seeds-dataset",
+        "subtitle": "Pumpkin Seeds Dataset",
+        "totalbytes": 402721
+    },
+    {
+        "id": 5227,
+        "ref": "camnugent/california-housing-prices",
+        "url": "https://www.kaggle.com/datasets/camnugent/california-housing-prices",
+        "subtitle": "Median house prices for California districts derived from the 1990 census.",
+        "totalbytes": 409382
+    },
+    {
+        "id": 894,
+        "ref": "unsdsn/world-happiness",
+        "url": "https://www.kaggle.com/datasets/unsdsn/world-happiness",
+        "subtitle": "Happiness scored according to economic production, social support, etc.",
+        "totalbytes": 37692
+    },
+    {
+        "id": 1222432,
+        "ref": "ajaypalsinghlo/world-happiness-report-2021",
+        "url": "https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2021",
+        "subtitle": "World Happiness Report",
+        "totalbytes": 56531
+    },
+    {
+        "id": 4769773,
+        "ref": "rahulvyasm/netflix-movies-and-tv-shows",
+        "url": "https://www.kaggle.com/datasets/rahulvyasm/netflix-movies-and-tv-shows",
+        "subtitle": "Exploring the Depths of Netflix: A Comprehensive Dataset of Movies and TV Shows",
+        "totalbytes": 1412315
+    },
+    {
+        "id": 1718843,
+        "ref": "johnharshith/hollywood-theatrical-market-synopsis-1995-to-2021",
+        "url": "https://www.kaggle.com/datasets/johnharshith/hollywood-theatrical-market-synopsis-1995-to-2021",
+        "subtitle": "North American Domestic Movies Theatrical Market Synopsis ",
+        "totalbytes": 6365
+    },
+    {
+        "id": 1850,
+        "ref": "rajanand/crime-in-india",
+        "url": "https://www.kaggle.com/datasets/rajanand/crime-in-india",
+        "subtitle": "State-wise data from 2001 is classified according to 40+factors. (75+ csv files)",
+        "totalbytes": 4600172
+    },
+    {
+        "id": 748584,
+        "ref": "mathurinache/world-happiness-report",
+        "url": "https://www.kaggle.com/datasets/mathurinache/world-happiness-report",
+        "subtitle": "Bliss scored agreeing to financial, social, etc.",
+        "totalbytes": 69046
+    },
+    {
+        "id": 2745,
+        "ref": "danielgrijalvas/movies",
+        "url": "https://www.kaggle.com/datasets/danielgrijalvas/movies",
+        "subtitle": "Four decades of movies",
+        "totalbytes": 433664
+    },
+    {
+        "id": 2437124,
+        "ref": "ariyoomotade/netflix-data-cleaning-analysis-and-visualization",
+        "url": "https://www.kaggle.com/datasets/ariyoomotade/netflix-data-cleaning-analysis-and-visualization",
+        "subtitle": "Cleaning and Visualization with Pgsql and Tableau ",
+        "totalbytes": 276607
+    },
+    {
+        "id": 872854,
+        "ref": "ramjidoolla/ipl-data-set",
+        "url": "https://www.kaggle.com/datasets/ramjidoolla/ipl-data-set",
+        "subtitle": "IPL Data (2008-2019)",
+        "totalbytes": 1299923
+    },
+    {
+        "id": 4787,
+        "ref": "dorbicycle/world-foodfeed-production",
+        "url": "https://www.kaggle.com/datasets/dorbicycle/world-foodfeed-production",
+        "subtitle": "Worldwide food\\feed production and distribution, 1961-2013 ",
+        "totalbytes": 894652
+    },
+    {
+        "id": 1935,
+        "ref": "srinivas1/agricuture-crops-production-in-india",
+        "url": "https://www.kaggle.com/datasets/srinivas1/agricuture-crops-production-in-india",
+        "subtitle": "Various Crops Cultivation/Production",
+        "totalbytes": 23364
+    },
+    {
+        "id": 622510,
+        "ref": "ankurzing/sentiment-analysis-for-financial-news",
+        "url": "https://www.kaggle.com/datasets/ankurzing/sentiment-analysis-for-financial-news",
+        "subtitle": "Dataset contains two columns, Sentiment and News Headline",
+        "totalbytes": 924875
+    },
+    {
+        "id": 3259501,
+        "ref": "fatihb/coffee-quality-data-cqi",
+        "url": "https://www.kaggle.com/datasets/fatihb/coffee-quality-data-cqi",
+        "subtitle": "Scraped data from CQI database",
+        "totalbytes": 22279
+    },
+    {
+        "id": 42674,
+        "ref": "vjchoudhary7/customer-segmentation-tutorial-in-python",
+        "url": "https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python",
+        "subtitle": "Market Basket Analysis",
+        "totalbytes": 1583
+    },
+    {
+        "id": 3808038,
+        "ref": "iamsouravbanerjee/customer-shopping-trends-dataset",
+        "url": "https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset",
+        "subtitle": "Journey into Consumer Insights and Retail Evolution with Synthetic Data",
+        "totalbytes": 149846
+    },
+    {
+        "id": 22268,
+        "ref": "bigquery/google-analytics-sample",
+        "url": "https://www.kaggle.com/datasets/bigquery/google-analytics-sample",
+        "subtitle": "Google Analytics Sample (BigQuery)",
+        "totalbytes": 0
+    },
+    {
+        "id": 1046184,
+        "ref": "jackdaoud/marketing-data",
+        "url": "https://www.kaggle.com/datasets/jackdaoud/marketing-data",
+        "subtitle": "Practice Exploratory and Statistical Analysis with Marketing Data",
+        "totalbytes": 658411
+    },
+    {
+        "id": 7474089,
+        "ref": "rakeshkapilavai/extrovert-vs-introvert-behavior-data",
+        "url": "https://www.kaggle.com/datasets/rakeshkapilavai/extrovert-vs-introvert-behavior-data",
+        "subtitle": "Explore and Predict Social Behaviors and Personality Types",
+        "totalbytes": 31277
+    },
+    {
+        "id": 4471,
+        "ref": "janiobachmann/bank-marketing-dataset",
+        "url": "https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset",
+        "subtitle": "Predicting Term Deposit Suscriptions",
+        "totalbytes": 145725
+    },
+    {
+        "id": 14701,
+        "ref": "arjunbhasin2013/ccdata",
+        "url": "https://www.kaggle.com/datasets/arjunbhasin2013/ccdata",
+        "subtitle": "",
+        "totalbytes": 348486
+    },
+    {
+        "id": 1128256,
+        "ref": "michau96/restaurant-business-rankings-2020",
+        "url": "https://www.kaggle.com/datasets/michau96/restaurant-business-rankings-2020",
+        "subtitle": "Top 250, Top 100 Independents and Future 50",
+        "totalbytes": 16166
+    },
+    {
+        "id": 6784624,
+        "ref": "atharvasoundankar/chocolate-sales",
+        "url": "https://www.kaggle.com/datasets/atharvasoundankar/chocolate-sales",
+        "subtitle": "A Comprehensive Dataset for Analyzing Chocolate Sales Trends",
+        "totalbytes": 14473
+    },
+    {
+        "id": 30368,
+        "ref": "henriqueyamahata/bank-marketing",
+        "url": "https://www.kaggle.com/datasets/henriqueyamahata/bank-marketing",
+        "subtitle": "source: https://archive.ics.uci.edu/ml/datasets/bank+marketing",
+        "totalbytes": 402740
+    },
+    {
+        "id": 178248,
+        "ref": "rodsaldanha/arketing-campaign",
+        "url": "https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign",
+        "subtitle": "Boost the profit of a marketing campaign",
+        "totalbytes": 360296
+    },
+    {
+        "id": 5085377,
+        "ref": "shreyanshverma27/online-sales-dataset-popular-marketplace-data",
+        "url": "https://www.kaggle.com/datasets/shreyanshverma27/online-sales-dataset-popular-marketplace-data",
+        "subtitle": "Global Transactions Across Various Product Categories",
+        "totalbytes": 6938
+    },
+    {
+        "id": 223954,
+        "ref": "prakharrathi25/banking-dataset-marketing-targets",
+        "url": "https://www.kaggle.com/datasets/prakharrathi25/banking-dataset-marketing-targets",
+        "subtitle": "Banking Dataset of different customers to predict if they will convert or not. ",
+        "totalbytes": 590269
+    },
+    {
+        "id": 1749954,
+        "ref": "iamsouravbanerjee/nifty50-stocks-dataset",
+        "url": "https://www.kaggle.com/datasets/iamsouravbanerjee/nifty50-stocks-dataset",
+        "subtitle": "NIFTY-50 Stocks: Comprehensive Dataset from India's Top Companies on the NSE",
+        "totalbytes": 2707
+    },
+    {
+        "id": 78342,
+        "ref": "olistbr/marketing-funnel-olist",
+        "url": "https://www.kaggle.com/datasets/olistbr/marketing-funnel-olist",
+        "subtitle": "8k leads, closed deals and connection to 100k orders",
+        "totalbytes": 284562
+    },
+    {
+        "id": 13720,
+        "ref": "mirichoi0218/insurance",
+        "url": "https://www.kaggle.com/datasets/mirichoi0218/insurance",
+        "subtitle": "Insurance Forecast by using Linear Regression",
+        "totalbytes": 16425
+    },
+    {
+        "id": 982921,
+        "ref": "sakshigoyal7/credit-card-customers",
+        "url": "https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers",
+        "subtitle": "Predict Churning customers",
+        "totalbytes": 387771
+    },
+    {
+        "id": 128,
+        "ref": "harlfoxem/housesalesprediction",
+        "url": "https://www.kaggle.com/datasets/harlfoxem/housesalesprediction",
+        "subtitle": "Predict house price using regression",
+        "totalbytes": 798275
+    },
+    {
+        "id": 42674,
+        "ref": "vjchoudhary7/customer-segmentation-tutorial-in-python",
+        "url": "https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python",
+        "subtitle": "Market Basket Analysis",
+        "totalbytes": 1583
+    },
+    {
+        "id": 1869,
+        "ref": "sudalairajkumar/cryptocurrencypricehistory",
+        "url": "https://www.kaggle.com/datasets/sudalairajkumar/cryptocurrencypricehistory",
+        "subtitle": "Prices of top cryptocurrencies including BTC, ETH, ADA, DOT and BNB",
+        "totalbytes": 1782192
+    },
+    {
+        "id": 1312,
+        "ref": "shivam2503/diamonds",
+        "url": "https://www.kaggle.com/datasets/shivam2503/diamonds",
+        "subtitle": "Analyze diamonds by their cut, color, clarity, price, and other attributes",
+        "totalbytes": 750893
+    },
+    {
+        "id": 2296,
+        "ref": "manjeetsingh/retaildataset",
+        "url": "https://www.kaggle.com/datasets/manjeetsingh/retaildataset",
+        "subtitle": "Historical sales data from 45 stores",
+        "totalbytes": 3258525
+    },
+    {
+        "id": 1902,
+        "ref": "sudalairajkumar/indian-startup-funding",
+        "url": "https://www.kaggle.com/datasets/sudalairajkumar/indian-startup-funding",
+        "subtitle": "Funding details of the startups in India",
+        "totalbytes": 122812
+    },
+    {
+        "id": 306,
+        "ref": "uciml/default-of-credit-card-clients-dataset",
+        "url": "https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset",
+        "subtitle": "Default Payments of Credit Card Clients in Taiwan from 2005",
+        "totalbytes": 1025318
+    }
+]
