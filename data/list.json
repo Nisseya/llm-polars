@@ -7,25 +7,11 @@
         "totalbytes": 643781
     },
     {
-        "id": 2818963,
-        "ref": "karkavelrajaj/amazon-sales-dataset",
-        "url": "https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset",
-        "subtitle": "This dataset is having the data of 1K+ Amazon Product's Ratings and Reviews",
-        "totalbytes": 2043633
-    },
-    {
         "id": 435,
         "ref": "kyanyoga/sample-sales-data",
         "url": "https://www.kaggle.com/datasets/kyanyoga/sample-sales-data",
         "subtitle": "Denormalize Sales Data : Segmentation, Clustering, Shipping, etc.",
         "totalbytes": 79402
-    },
-    {
-        "id": 2296,
-        "ref": "manjeetsingh/retaildataset",
-        "url": "https://www.kaggle.com/datasets/manjeetsingh/retaildataset",
-        "subtitle": "Historical sales data from 45 stores",
-        "totalbytes": 3258525
     },
     {
         "id": 1940216,
@@ -56,25 +42,11 @@
         "totalbytes": 491942
     },
     {
-        "id": 863934,
-        "ref": "datatattle/covid-19-nlp-text-classification",
-        "url": "https://www.kaggle.com/datasets/datatattle/covid-19-nlp-text-classification",
-        "subtitle": "Corona Virus Tagged Data",
-        "totalbytes": 4595012
-    },
-    {
         "id": 877335,
         "ref": "heeraldedhia/groceries-dataset",
         "url": "https://www.kaggle.com/datasets/heeraldedhia/groceries-dataset",
         "subtitle": "Dataset of 38765 rows for Market Basket Analysis",
         "totalbytes": 263057
-    },
-    {
-        "id": 828,
-        "ref": "starbucks/store-locations",
-        "url": "https://www.kaggle.com/datasets/starbucks/store-locations",
-        "subtitle": "Name, ownership type, and location of every Starbucks store in operation",
-        "totalbytes": 1149144
     },
     {
         "id": 6784624,
@@ -126,25 +98,11 @@
         "totalbytes": 256729
     },
     {
-        "id": 2049755,
-        "ref": "muratkokludataset/pistachio-dataset",
-        "url": "https://www.kaggle.com/datasets/muratkokludataset/pistachio-dataset",
-        "subtitle": "Pistachio Dataset; 2 Class - Kirmizi and Siirt Pistachio, 16 and 28 Features",
-        "totalbytes": 1904509
-    },
-    {
         "id": 2048923,
         "ref": "muratkokludataset/rice-dataset-commeo-and-osmancik",
         "url": "https://www.kaggle.com/datasets/muratkokludataset/rice-dataset-commeo-and-osmancik",
         "subtitle": "Rice Dataset: 2 Class Commeo and Osmancik Rice",
         "totalbytes": 536353
-    },
-    {
-        "id": 522275,
-        "ref": "teejmahal20/airline-passenger-satisfaction",
-        "url": "https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction",
-        "subtitle": "What factors lead to customer satisfaction for an Airline?",
-        "totalbytes": 2841945
     },
     {
         "id": 9366,
@@ -175,27 +133,6 @@
         "totalbytes": 21984
     },
     {
-        "id": 231310,
-        "ref": "jealousleopard/goodreadsbooks",
-        "url": "https://www.kaggle.com/datasets/jealousleopard/goodreadsbooks",
-        "subtitle": "comprehensive list of books listed in goodreads",
-        "totalbytes": 637338
-    },
-    {
-        "id": 2033872,
-        "ref": "muratkokludataset/pumpkin-seeds-dataset",
-        "url": "https://www.kaggle.com/datasets/muratkokludataset/pumpkin-seeds-dataset",
-        "subtitle": "Pumpkin Seeds Dataset",
-        "totalbytes": 402721
-    },
-    {
-        "id": 5227,
-        "ref": "camnugent/california-housing-prices",
-        "url": "https://www.kaggle.com/datasets/camnugent/california-housing-prices",
-        "subtitle": "Median house prices for California districts derived from the 1990 census.",
-        "totalbytes": 409382
-    },
-    {
         "id": 894,
         "ref": "unsdsn/world-happiness",
         "url": "https://www.kaggle.com/datasets/unsdsn/world-happiness",
@@ -210,25 +147,11 @@
         "totalbytes": 56531
     },
     {
-        "id": 4769773,
-        "ref": "rahulvyasm/netflix-movies-and-tv-shows",
-        "url": "https://www.kaggle.com/datasets/rahulvyasm/netflix-movies-and-tv-shows",
-        "subtitle": "Exploring the Depths of Netflix: A Comprehensive Dataset of Movies and TV Shows",
-        "totalbytes": 1412315
-    },
-    {
         "id": 1718843,
         "ref": "johnharshith/hollywood-theatrical-market-synopsis-1995-to-2021",
         "url": "https://www.kaggle.com/datasets/johnharshith/hollywood-theatrical-market-synopsis-1995-to-2021",
         "subtitle": "North American Domestic Movies Theatrical Market Synopsis ",
         "totalbytes": 6365
-    },
-    {
-        "id": 1850,
-        "ref": "rajanand/crime-in-india",
-        "url": "https://www.kaggle.com/datasets/rajanand/crime-in-india",
-        "subtitle": "State-wise data from 2001 is classified according to 40+factors. (75+ csv files)",
-        "totalbytes": 4600172
     },
     {
         "id": 748584,
@@ -250,13 +173,6 @@
         "url": "https://www.kaggle.com/datasets/ariyoomotade/netflix-data-cleaning-analysis-and-visualization",
         "subtitle": "Cleaning and Visualization with Pgsql and Tableau ",
         "totalbytes": 276607
-    },
-    {
-        "id": 872854,
-        "ref": "ramjidoolla/ipl-data-set",
-        "url": "https://www.kaggle.com/datasets/ramjidoolla/ipl-data-set",
-        "subtitle": "IPL Data (2008-2019)",
-        "totalbytes": 1299923
     },
     {
         "id": 4787,
@@ -420,25 +336,11 @@
         "totalbytes": 1583
     },
     {
-        "id": 1869,
-        "ref": "sudalairajkumar/cryptocurrencypricehistory",
-        "url": "https://www.kaggle.com/datasets/sudalairajkumar/cryptocurrencypricehistory",
-        "subtitle": "Prices of top cryptocurrencies including BTC, ETH, ADA, DOT and BNB",
-        "totalbytes": 1782192
-    },
-    {
         "id": 1312,
         "ref": "shivam2503/diamonds",
         "url": "https://www.kaggle.com/datasets/shivam2503/diamonds",
         "subtitle": "Analyze diamonds by their cut, color, clarity, price, and other attributes",
         "totalbytes": 750893
-    },
-    {
-        "id": 2296,
-        "ref": "manjeetsingh/retaildataset",
-        "url": "https://www.kaggle.com/datasets/manjeetsingh/retaildataset",
-        "subtitle": "Historical sales data from 45 stores",
-        "totalbytes": 3258525
     },
     {
         "id": 1902,
@@ -453,5 +355,2161 @@
         "url": "https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset",
         "subtitle": "Default Payments of Credit Card Clients in Taiwan from 2005",
         "totalbytes": 1025318
+    },
+    {
+        "id": 982921,
+        "ref": "sakshigoyal7/credit-card-customers",
+        "url": "https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers",
+        "subtitle": "Predict Churning customers",
+        "totalbytes": 387771
+    },
+    {
+        "id": 22951,
+        "ref": "theworldbank/world-bank-intl-education",
+        "url": "https://www.kaggle.com/datasets/theworldbank/world-bank-intl-education",
+        "subtitle": "World Bank: Education Data (BigQuery Dataset)",
+        "totalbytes": 0
+    },
+    {
+        "id": 30368,
+        "ref": "henriqueyamahata/bank-marketing",
+        "url": "https://www.kaggle.com/datasets/henriqueyamahata/bank-marketing",
+        "subtitle": "source: https://archive.ics.uci.edu/ml/datasets/bank+marketing",
+        "totalbytes": 402740
+    },
+    {
+        "id": 271144,
+        "ref": "chirin/africa-economic-banking-and-systemic-crisis-data",
+        "url": "https://www.kaggle.com/datasets/chirin/africa-economic-banking-and-systemic-crisis-data",
+        "subtitle": "Data on Economic and Financial crises in 13 African Countries (1860 to 2014)",
+        "totalbytes": 14006
+    },
+    {
+        "id": 223954,
+        "ref": "prakharrathi25/banking-dataset-marketing-targets",
+        "url": "https://www.kaggle.com/datasets/prakharrathi25/banking-dataset-marketing-targets",
+        "subtitle": "Banking Dataset of different customers to predict if they will convert or not. ",
+        "totalbytes": 590269
+    },
+    {
+        "id": 5115791,
+        "ref": "matinmahmoudi/loans-and-liability",
+        "url": "https://www.kaggle.com/datasets/matinmahmoudi/loans-and-liability",
+        "subtitle": "Analyzing the Influence of Financial Metrics on Loan Approval",
+        "totalbytes": 31028
+    },
+    {
+        "id": 17473,
+        "ref": "barelydedicated/bank-customer-churn-modeling",
+        "url": "https://www.kaggle.com/datasets/barelydedicated/bank-customer-churn-modeling",
+        "subtitle": "Can you predict if bank customers will turnover next cycle?",
+        "totalbytes": 267794
+    },
+    {
+        "id": 48024,
+        "ref": "itsmesunil/bank-loan-modelling",
+        "url": "https://www.kaggle.com/datasets/itsmesunil/bank-loan-modelling",
+        "subtitle": "Personal Loan classification problem",
+        "totalbytes": 338875
+    },
+    {
+        "id": 3523739,
+        "ref": "architsharma01/loan-approval-prediction-dataset",
+        "url": "https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset",
+        "subtitle": "Loan Approval Dataset used for Prediction Models",
+        "totalbytes": 82535
+    },
+    {
+        "id": 284,
+        "ref": "gregorut/videogamesales",
+        "url": "https://www.kaggle.com/datasets/gregorut/videogamesales",
+        "subtitle": "Analyze sales data from more than 16,500 games.",
+        "totalbytes": 390286
+    },
+    {
+        "id": 30292,
+        "ref": "neuromusic/avocado-prices",
+        "url": "https://www.kaggle.com/datasets/neuromusic/avocado-prices",
+        "subtitle": "Historical data on avocado prices and sales volume in multiple US markets",
+        "totalbytes": 643781
+    },
+    {
+        "id": 11167,
+        "ref": "iabhishekofficial/mobile-price-classification",
+        "url": "https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification",
+        "subtitle": "Classify Mobile Price Range",
+        "totalbytes": 72340
+    },
+    {
+        "id": 128,
+        "ref": "harlfoxem/housesalesprediction",
+        "url": "https://www.kaggle.com/datasets/harlfoxem/housesalesprediction",
+        "subtitle": "Predict house price using regression",
+        "totalbytes": 798275
+    },
+    {
+        "id": 435,
+        "ref": "kyanyoga/sample-sales-data",
+        "url": "https://www.kaggle.com/datasets/kyanyoga/sample-sales-data",
+        "subtitle": "Denormalize Sales Data : Segmentation, Clustering, Shipping, etc.",
+        "totalbytes": 79402
+    },
+    {
+        "id": 576,
+        "ref": "rush4ratio/video-game-sales-with-ratings",
+        "url": "https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings",
+        "subtitle": "Video game sales from Vgchartz and corresponding ratings from Metacritic",
+        "totalbytes": 487609
+    },
+    {
+        "id": 1940216,
+        "ref": "vivek468/superstore-dataset-final",
+        "url": "https://www.kaggle.com/datasets/vivek468/superstore-dataset-final",
+        "subtitle": "Dataset containing Sales & Profits of a Superstore",
+        "totalbytes": 562846
+    },
+    {
+        "id": 46927,
+        "ref": "shree1992/housedata",
+        "url": "https://www.kaggle.com/datasets/shree1992/housedata",
+        "subtitle": "Predicting the house price ",
+        "totalbytes": 442471
+    },
+    {
+        "id": 2133850,
+        "ref": "surajjha101/stores-area-and-sales-data",
+        "url": "https://www.kaggle.com/datasets/surajjha101/stores-area-and-sales-data",
+        "subtitle": "Analyzing Stores sales and its dependence on stores area and daily customercount",
+        "totalbytes": 9828
+    },
+    {
+        "id": 835308,
+        "ref": "rohitsahoo/sales-forecasting",
+        "url": "https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting",
+        "subtitle": "Predict Sales using Time Series",
+        "totalbytes": 491942
+    },
+    {
+        "id": 1718843,
+        "ref": "johnharshith/hollywood-theatrical-market-synopsis-1995-to-2021",
+        "url": "https://www.kaggle.com/datasets/johnharshith/hollywood-theatrical-market-synopsis-1995-to-2021",
+        "subtitle": "North American Domestic Movies Theatrical Market Synopsis ",
+        "totalbytes": 6365
+    },
+    {
+        "id": 22268,
+        "ref": "bigquery/google-analytics-sample",
+        "url": "https://www.kaggle.com/datasets/bigquery/google-analytics-sample",
+        "subtitle": "Google Analytics Sample (BigQuery)",
+        "totalbytes": 0
+    },
+    {
+        "id": 819786,
+        "ref": "jmmvutu/summer-products-and-sales-in-ecommerce-wish",
+        "url": "https://www.kaggle.com/datasets/jmmvutu/summer-products-and-sales-in-ecommerce-wish",
+        "subtitle": "Top products with ratings and sales performance, unlike many other datasets",
+        "totalbytes": 415305
+    },
+    {
+        "id": 287748,
+        "ref": "AppleEcomerceInfo/ecommerce-information",
+        "url": "https://www.kaggle.com/datasets/AppleEcomerceInfo/ecommerce-information",
+        "subtitle": "Orders with product, User, Inventory info",
+        "totalbytes": 7073
+    },
+    {
+        "id": 95,
+        "ref": "cclark/product-item-data",
+        "url": "https://www.kaggle.com/datasets/cclark/product-item-data",
+        "subtitle": "500 SKUs and their descriptions. Great for content engine training!",
+        "totalbytes": 140589
+    },
+    {
+        "id": 349053,
+        "ref": "kolawale/focusing-on-mobile-app-or-website",
+        "url": "https://www.kaggle.com/datasets/kolawale/focusing-on-mobile-app-or-website",
+        "subtitle": "This Dataset consist of customer amount spent on online shopping of clothes",
+        "totalbytes": 44169
+    },
+    {
+        "id": 615631,
+        "ref": "benroshan/ecommerce-data",
+        "url": "https://www.kaggle.com/datasets/benroshan/ecommerce-data",
+        "subtitle": "Sales details from Indian e-commerce website",
+        "totalbytes": 18355
+    },
+    {
+        "id": 1119908,
+        "ref": "ankitverma2010/ecommerce-customer-churn-analysis-and-prediction",
+        "url": "https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction",
+        "subtitle": "Predict customer churn and make suggestions",
+        "totalbytes": 544542
+    },
+    {
+        "id": 1766272,
+        "ref": "shivamb/fashion-clothing-products-catalog",
+        "url": "https://www.kaggle.com/datasets/shivamb/fashion-clothing-products-catalog",
+        "subtitle": "12,000 Products dataset for fashion ecommerce ",
+        "totalbytes": 629653
+    },
+    {
+        "id": 2327126,
+        "ref": "mukuldeshantri/ecommerce-fashion-dataset",
+        "url": "https://www.kaggle.com/datasets/mukuldeshantri/ecommerce-fashion-dataset",
+        "subtitle": "Dataset containing over 30K products of women's fashion",
+        "totalbytes": 559586
+    },
+    {
+        "id": 471206,
+        "ref": "utkarsharya/ecommerce-purchases",
+        "url": "https://www.kaggle.com/datasets/utkarsharya/ecommerce-purchases",
+        "subtitle": "",
+        "totalbytes": 1007273
+    },
+    {
+        "id": 3668746,
+        "ref": "nelgiriyewithana/top-spotify-songs-2023",
+        "url": "https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023",
+        "subtitle": "Hottest Spotify Hits 🎵",
+        "totalbytes": 48187
+    },
+    {
+        "id": 1292407,
+        "ref": "adityakadiwal/water-potability",
+        "url": "https://www.kaggle.com/datasets/adityakadiwal/water-potability",
+        "subtitle": "Drinking water potability",
+        "totalbytes": 256729
+    },
+    {
+        "id": 293841,
+        "ref": "leonardopena/top50spotify2019",
+        "url": "https://www.kaggle.com/datasets/leonardopena/top50spotify2019",
+        "subtitle": "Top 50 songs listened in 2019 on spotify",
+        "totalbytes": 2365
+    },
+    {
+        "id": 134,
+        "ref": "primaryobjects/voicegender",
+        "url": "https://www.kaggle.com/datasets/primaryobjects/voicegender",
+        "subtitle": "Identify a voice as male or female",
+        "totalbytes": 415156
+    },
+    {
+        "id": 117,
+        "ref": "miroslavsabo/young-people-survey",
+        "url": "https://www.kaggle.com/datasets/miroslavsabo/young-people-survey",
+        "subtitle": "Explore the preferences, interests, habits, opinions, and fears of young people",
+        "totalbytes": 85769
+    },
+    {
+        "id": 618335,
+        "ref": "mariaren/covid19-healthy-diet-dataset",
+        "url": "https://www.kaggle.com/datasets/mariaren/covid19-healthy-diet-dataset",
+        "subtitle": "Let's fight COVID-19 by adapting to a healthy diet! ",
+        "totalbytes": 83872
+    },
+    {
+        "id": 376751,
+        "ref": "hmavrodiev/london-bike-sharing-dataset",
+        "url": "https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset",
+        "subtitle": "Historical data for bike sharing in London 'Powered by TfL Open Data'",
+        "totalbytes": 169271
+    },
+    {
+        "id": 47,
+        "ref": "saurograndi/airplane-crashes-since-1908",
+        "url": "https://www.kaggle.com/datasets/saurograndi/airplane-crashes-since-1908",
+        "subtitle": "Full history of airplane crashes throughout the world, from 1908-present",
+        "totalbytes": 577070
+    },
+    {
+        "id": 3128523,
+        "ref": "desalegngeb/students-exam-scores",
+        "url": "https://www.kaggle.com/datasets/desalegngeb/students-exam-scores",
+        "subtitle": "Exam scores for students at a public school",
+        "totalbytes": 711436
+    },
+    {
+        "id": 28865,
+        "ref": "marklvl/bike-sharing-dataset",
+        "url": "https://www.kaggle.com/datasets/marklvl/bike-sharing-dataset",
+        "subtitle": "Rental bikes in 2011 and 2012 with corresponding weather and seasonal info",
+        "totalbytes": 586498
+    },
+    {
+        "id": 815268,
+        "ref": "selfvivek/environment-impact-of-food-production",
+        "url": "https://www.kaggle.com/datasets/selfvivek/environment-impact-of-food-production",
+        "subtitle": "What are the environmental impacts of food and agriculture?",
+        "totalbytes": 3640
+    },
+    {
+        "id": 2719,
+        "ref": "uciml/restaurant-data-with-consumer-ratings",
+        "url": "https://www.kaggle.com/datasets/uciml/restaurant-data-with-consumer-ratings",
+        "subtitle": "Data from a restaurant recommender prototype",
+        "totalbytes": 39850
+    },
+    {
+        "id": 149550,
+        "ref": "lodetomasi1995/income-classification",
+        "url": "https://www.kaggle.com/datasets/lodetomasi1995/income-classification",
+        "subtitle": "Prediction task is to determine whether a person makes over 50K a year. ",
+        "totalbytes": 470427
+    },
+    {
+        "id": 74977,
+        "ref": "spscientist/students-performance-in-exams",
+        "url": "https://www.kaggle.com/datasets/spscientist/students-performance-in-exams",
+        "subtitle": "Marks secured by the students in various subjects",
+        "totalbytes": 8907
+    },
+    {
+        "id": 4458,
+        "ref": "uciml/red-wine-quality-cortez-et-al-2009",
+        "url": "https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009",
+        "subtitle": "Simple and clean practice dataset for regression or classification modelling",
+        "totalbytes": 26176
+    },
+    {
+        "id": 13720,
+        "ref": "mirichoi0218/insurance",
+        "url": "https://www.kaggle.com/datasets/mirichoi0218/insurance",
+        "subtitle": "Insurance Forecast by using Linear Regression",
+        "totalbytes": 16425
+    },
+    {
+        "id": 1546318,
+        "ref": "imakash3011/customer-personality-analysis",
+        "url": "https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis",
+        "subtitle": "Analysis of company's ideal customers",
+        "totalbytes": 63450
+    },
+    {
+        "id": 1067,
+        "ref": "pavansubhasht/ibm-hr-analytics-attrition-dataset",
+        "url": "https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset",
+        "subtitle": "Predict attrition of your valuable employees",
+        "totalbytes": 51314
+    },
+    {
+        "id": 251,
+        "ref": "uciml/student-alcohol-consumption",
+        "url": "https://www.kaggle.com/datasets/uciml/student-alcohol-consumption",
+        "subtitle": "Social, gender and study data from secondary school students",
+        "totalbytes": 18868
+    },
+    {
+        "id": 3668746,
+        "ref": "nelgiriyewithana/top-spotify-songs-2023",
+        "url": "https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023",
+        "subtitle": "Hottest Spotify Hits 🎵",
+        "totalbytes": 48187
+    },
+    {
+        "id": 14872,
+        "ref": "mohansacharya/graduate-admissions",
+        "url": "https://www.kaggle.com/datasets/mohansacharya/graduate-admissions",
+        "subtitle": "Predicting admission from important parameters",
+        "totalbytes": 9867
+    },
+    {
+        "id": 1187302,
+        "ref": "gpreda/reddit-vaccine-myths",
+        "url": "https://www.kaggle.com/datasets/gpreda/reddit-vaccine-myths",
+        "subtitle": "r/VaccineMyths subreddit posts and comments",
+        "totalbytes": 242965
+    },
+    {
+        "id": 3321433,
+        "ref": "uom190346a/sleep-health-and-lifestyle-dataset",
+        "url": "https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset",
+        "subtitle": "Unlock sleep insights with the Sleep Health Dataset",
+        "totalbytes": 2604
+    },
+    {
+        "id": 1019790,
+        "ref": "arashnic/hr-analytics-job-change-of-data-scientists",
+        "url": "https://www.kaggle.com/datasets/arashnic/hr-analytics-job-change-of-data-scientists",
+        "subtitle": "Predict who will move to a new job ",
+        "totalbytes": 301600
+    },
+    {
+        "id": 5630996,
+        "ref": "lainguyn123/student-performance-factors",
+        "url": "https://www.kaggle.com/datasets/lainguyn123/student-performance-factors",
+        "subtitle": "Insights into Student Performance and Contributing Factors",
+        "totalbytes": 96178
+    },
+    {
+        "id": 228,
+        "ref": "uciml/pima-indians-diabetes-database",
+        "url": "https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database",
+        "subtitle": "Predict the onset of diabetes based on diagnostic measures",
+        "totalbytes": 9128
+    },
+    {
+        "id": 894,
+        "ref": "unsdsn/world-happiness",
+        "url": "https://www.kaggle.com/datasets/unsdsn/world-happiness",
+        "subtitle": "Happiness scored according to economic production, social support, etc.",
+        "totalbytes": 37692
+    },
+    {
+        "id": 180,
+        "ref": "uciml/breast-cancer-wisconsin-data",
+        "url": "https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data",
+        "subtitle": "Predict whether the cancer is benign or malignant",
+        "totalbytes": 49796
+    },
+    {
+        "id": 30292,
+        "ref": "neuromusic/avocado-prices",
+        "url": "https://www.kaggle.com/datasets/neuromusic/avocado-prices",
+        "subtitle": "Historical data on avocado prices and sales volume in multiple US markets",
+        "totalbytes": 643781
+    },
+    {
+        "id": 1120859,
+        "ref": "fedesoriano/stroke-prediction-dataset",
+        "url": "https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset",
+        "subtitle": "11 clinical features for predicting stroke events",
+        "totalbytes": 69007
+    },
+    {
+        "id": 4458,
+        "ref": "uciml/red-wine-quality-cortez-et-al-2009",
+        "url": "https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009",
+        "subtitle": "Simple and clean practice dataset for regression or classification modelling",
+        "totalbytes": 26176
+    },
+    {
+        "id": 85351,
+        "ref": "russellyates88/suicide-rates-overview-1985-to-2016",
+        "url": "https://www.kaggle.com/datasets/russellyates88/suicide-rates-overview-1985-to-2016",
+        "subtitle": "Compares socio-economic info with suicide rates by year and country",
+        "totalbytes": 406636
+    },
+    {
+        "id": 13720,
+        "ref": "mirichoi0218/insurance",
+        "url": "https://www.kaggle.com/datasets/mirichoi0218/insurance",
+        "subtitle": "Insurance Forecast by using Linear Regression",
+        "totalbytes": 16425
+    },
+    {
+        "id": 1582403,
+        "ref": "fedesoriano/heart-failure-prediction",
+        "url": "https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction",
+        "subtitle": "11 clinical features for predicting heart disease events.",
+        "totalbytes": 8762
+    },
+    {
+        "id": 121,
+        "ref": "abcsds/pokemon",
+        "url": "https://www.kaggle.com/datasets/abcsds/pokemon",
+        "subtitle": "721 Pokemon with stats and types",
+        "totalbytes": 15234
+    },
+    {
+        "id": 727551,
+        "ref": "andrewmvd/heart-failure-clinical-data",
+        "url": "https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data",
+        "subtitle": "12 clinical features por predicting death events.",
+        "totalbytes": 4067
+    },
+    {
+        "id": 1582403,
+        "ref": "fedesoriano/heart-failure-prediction",
+        "url": "https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction",
+        "subtitle": "11 clinical features for predicting heart disease events.",
+        "totalbytes": 8762
+    },
+    {
+        "id": 474,
+        "ref": "gilsousa/habermans-survival-data-set",
+        "url": "https://www.kaggle.com/datasets/gilsousa/habermans-survival-data-set",
+        "subtitle": "Survival of patients who had undergone surgery for breast cancer",
+        "totalbytes": 998
+    },
+    {
+        "id": 574076,
+        "ref": "einsteindata4u/covid19",
+        "url": "https://www.kaggle.com/datasets/einsteindata4u/covid19",
+        "subtitle": "AI and Data Science supporting clinical decisions (from 28th Mar to 3st Apr)",
+        "totalbytes": 569726
+    },
+    {
+        "id": 417892,
+        "ref": "prasoonkottarathil/polycystic-ovary-syndrome-pcos",
+        "url": "https://www.kaggle.com/datasets/prasoonkottarathil/polycystic-ovary-syndrome-pcos",
+        "subtitle": "pcos dataset contains all physical and clinical parameters of patients ",
+        "totalbytes": 122546
+    },
+    {
+        "id": 23651,
+        "ref": "imnikhilanand/heart-attack-prediction",
+        "url": "https://www.kaggle.com/datasets/imnikhilanand/heart-attack-prediction",
+        "subtitle": "This file describes the contents of the heart-disease directory.",
+        "totalbytes": 2674
+    },
+    {
+        "id": 888463,
+        "ref": "redwankarimsony/heart-disease-data",
+        "url": "https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data",
+        "subtitle": " Heart Disease Data Set from UCI data repository",
+        "totalbytes": 12672
+    },
+    {
+        "id": 2049845,
+        "ref": "muratkokludataset/date-fruit-datasets",
+        "url": "https://www.kaggle.com/datasets/muratkokludataset/date-fruit-datasets",
+        "subtitle": "7 Class; Barhee, Deglet Nour, Sukkary, Rotab Mozafati, Ruthana, Safawi, Sagai",
+        "totalbytes": 418144
+    },
+    {
+        "id": 1292407,
+        "ref": "adityakadiwal/water-potability",
+        "url": "https://www.kaggle.com/datasets/adityakadiwal/water-potability",
+        "subtitle": "Drinking water potability",
+        "totalbytes": 256729
+    },
+    {
+        "id": 2033872,
+        "ref": "muratkokludataset/pumpkin-seeds-dataset",
+        "url": "https://www.kaggle.com/datasets/muratkokludataset/pumpkin-seeds-dataset",
+        "subtitle": "Pumpkin Seeds Dataset",
+        "totalbytes": 402721
+    },
+    {
+        "id": 2048906,
+        "ref": "muratkokludataset/raisin-dataset",
+        "url": "https://www.kaggle.com/datasets/muratkokludataset/raisin-dataset",
+        "subtitle": "Raisin Dataset; 2 Class: Kecimen and Besni Raisin ",
+        "totalbytes": 115045
+    },
+    {
+        "id": 3808038,
+        "ref": "iamsouravbanerjee/customer-shopping-trends-dataset",
+        "url": "https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset",
+        "subtitle": "Journey into Consumer Insights and Retail Evolution with Synthetic Data",
+        "totalbytes": 149846
+    },
+    {
+        "id": 117,
+        "ref": "miroslavsabo/young-people-survey",
+        "url": "https://www.kaggle.com/datasets/miroslavsabo/young-people-survey",
+        "subtitle": "Explore the preferences, interests, habits, opinions, and fears of young people",
+        "totalbytes": 85769
+    },
+    {
+        "id": 1818188,
+        "ref": "yasserh/titanic-dataset",
+        "url": "https://www.kaggle.com/datasets/yasserh/titanic-dataset",
+        "subtitle": "Titanic Survival Prediction Dataset",
+        "totalbytes": 22564
+    },
+    {
+        "id": 2636109,
+        "ref": "thedevastator/cancer-patients-and-air-pollution-a-new-link",
+        "url": "https://www.kaggle.com/datasets/thedevastator/cancer-patients-and-air-pollution-a-new-link",
+        "subtitle": "Air Pollution, Alcohol, Smoking & Risk of Lung Cancer",
+        "totalbytes": 7532
+    },
+    {
+        "id": 5779,
+        "ref": "epa/epa-historical-air-quality",
+        "url": "https://www.kaggle.com/datasets/epa/epa-historical-air-quality",
+        "subtitle": "Air Quality Data Collected at Outdoor Monitors Across the US",
+        "totalbytes": 0
+    },
+    {
+        "id": 817556,
+        "ref": "debajyotipodder/co2-emission-by-vehicles",
+        "url": "https://www.kaggle.com/datasets/debajyotipodder/co2-emission-by-vehicles",
+        "subtitle": "Amount of CO2 emissions by a vehicle depending on their various features.",
+        "totalbytes": 90459
+    },
+    {
+        "id": 5836,
+        "ref": "open-aq/openaq",
+        "url": "https://www.kaggle.com/datasets/open-aq/openaq",
+        "subtitle": "Global Air Pollution Measurements",
+        "totalbytes": 0
+    },
+    {
+        "id": 2602633,
+        "ref": "hasibalmuzdadid/global-air-pollution-dataset",
+        "url": "https://www.kaggle.com/datasets/hasibalmuzdadid/global-air-pollution-dataset",
+        "subtitle": "Contains AQI values of different pollutants for many cities all over the world.",
+        "totalbytes": 379767
+    },
+    {
+        "id": 1169027,
+        "ref": "fedesoriano/traffic-prediction-dataset",
+        "url": "https://www.kaggle.com/datasets/fedesoriano/traffic-prediction-dataset",
+        "subtitle": "Hourly traffic data on four different junctions",
+        "totalbytes": 283801
+    },
+    {
+        "id": 815268,
+        "ref": "selfvivek/environment-impact-of-food-production",
+        "url": "https://www.kaggle.com/datasets/selfvivek/environment-impact-of-food-production",
+        "subtitle": "What are the environmental impacts of food and agriculture?",
+        "totalbytes": 3640
+    },
+    {
+        "id": 857298,
+        "ref": "rishidamarla/cancer-patients-data",
+        "url": "https://www.kaggle.com/datasets/rishidamarla/cancer-patients-data",
+        "subtitle": "Data from numerous cancer patients.",
+        "totalbytes": 70221
+    },
+    {
+        "id": 1968689,
+        "ref": "prasertk/healthy-lifestyle-cities-report-2021",
+        "url": "https://www.kaggle.com/datasets/prasertk/healthy-lifestyle-cities-report-2021",
+        "subtitle": "10 healthy living metrics in top 44 cities",
+        "totalbytes": 1928
+    },
+    {
+        "id": 1057064,
+        "ref": "fedesoriano/air-quality-data-set",
+        "url": "https://www.kaggle.com/datasets/fedesoriano/air-quality-data-set",
+        "subtitle": "Hourly averaged responses from an array of 5 metal oxide chemical sensors",
+        "totalbytes": 253794
+    },
+    {
+        "id": 3495122,
+        "ref": "nelgiriyewithana/countries-of-the-world-2023",
+        "url": "https://www.kaggle.com/datasets/nelgiriyewithana/countries-of-the-world-2023",
+        "subtitle": "A Comprehensive Dataset Empowering In-Depth Analysis and Cross-Country Insights",
+        "totalbytes": 24063
+    },
+    {
+        "id": 865197,
+        "ref": "nehaprabhavalkar/indian-food-101",
+        "url": "https://www.kaggle.com/datasets/nehaprabhavalkar/indian-food-101",
+        "subtitle": "Data about 255 traditional and famous dishes in India",
+        "totalbytes": 6951
+    },
+    {
+        "id": 1046158,
+        "ref": "atharvaingle/crop-recommendation-dataset",
+        "url": "https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset",
+        "subtitle": "Maximize agricultural yield by recommending appropriate crops",
+        "totalbytes": 65234
+    },
+    {
+        "id": 312121,
+        "ref": "sumanthvrao/daily-climate-time-series-data",
+        "url": "https://www.kaggle.com/datasets/sumanthvrao/daily-climate-time-series-data",
+        "subtitle": "Daily climate data in the city of Delhi from 2013 to 2017",
+        "totalbytes": 22518
+    },
+    {
+        "id": 4787,
+        "ref": "dorbicycle/world-foodfeed-production",
+        "url": "https://www.kaggle.com/datasets/dorbicycle/world-foodfeed-production",
+        "subtitle": "Worldwide food\\feed production and distribution, 1961-2013 ",
+        "totalbytes": 894652
+    },
+    {
+        "id": 1686,
+        "ref": "rajanand/rainfall-in-india",
+        "url": "https://www.kaggle.com/datasets/rajanand/rainfall-in-india",
+        "subtitle": "Sub-division wise monthly data for 115 years from 1901-2015.",
+        "totalbytes": 191592
+    },
+    {
+        "id": 1868601,
+        "ref": "ananthr1/weather-prediction",
+        "url": "https://www.kaggle.com/datasets/ananthr1/weather-prediction",
+        "subtitle": "Predicting it will Rain or not using some Weather Conditons..",
+        "totalbytes": 11824
+    },
+    {
+        "id": 2049845,
+        "ref": "muratkokludataset/date-fruit-datasets",
+        "url": "https://www.kaggle.com/datasets/muratkokludataset/date-fruit-datasets",
+        "subtitle": "7 Class; Barhee, Deglet Nour, Sukkary, Rotab Mozafati, Ruthana, Safawi, Sagai",
+        "totalbytes": 418144
+    },
+    {
+        "id": 2033872,
+        "ref": "muratkokludataset/pumpkin-seeds-dataset",
+        "url": "https://www.kaggle.com/datasets/muratkokludataset/pumpkin-seeds-dataset",
+        "subtitle": "Pumpkin Seeds Dataset",
+        "totalbytes": 402721
+    },
+    {
+        "id": 2048906,
+        "ref": "muratkokludataset/raisin-dataset",
+        "url": "https://www.kaggle.com/datasets/muratkokludataset/raisin-dataset",
+        "subtitle": "Raisin Dataset; 2 Class: Kecimen and Besni Raisin ",
+        "totalbytes": 115045
+    },
+    {
+        "id": 2048923,
+        "ref": "muratkokludataset/rice-dataset-commeo-and-osmancik",
+        "url": "https://www.kaggle.com/datasets/muratkokludataset/rice-dataset-commeo-and-osmancik",
+        "subtitle": "Rice Dataset: 2 Class Commeo and Osmancik Rice",
+        "totalbytes": 536353
+    },
+    {
+        "id": 4291772,
+        "ref": "nelgiriyewithana/apple-quality",
+        "url": "https://www.kaggle.com/datasets/nelgiriyewithana/apple-quality",
+        "subtitle": "Explore the World of Fruits",
+        "totalbytes": 174361
+    },
+    {
+        "id": 1046158,
+        "ref": "atharvaingle/crop-recommendation-dataset",
+        "url": "https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset",
+        "subtitle": "Maximize agricultural yield by recommending appropriate crops",
+        "totalbytes": 65234
+    },
+    {
+        "id": 618335,
+        "ref": "mariaren/covid19-healthy-diet-dataset",
+        "url": "https://www.kaggle.com/datasets/mariaren/covid19-healthy-diet-dataset",
+        "subtitle": "Let's fight COVID-19 by adapting to a healthy diet! ",
+        "totalbytes": 83872
+    },
+    {
+        "id": 4787,
+        "ref": "dorbicycle/world-foodfeed-production",
+        "url": "https://www.kaggle.com/datasets/dorbicycle/world-foodfeed-production",
+        "subtitle": "Worldwide food\\feed production and distribution, 1961-2013 ",
+        "totalbytes": 894652
+    },
+    {
+        "id": 1935,
+        "ref": "srinivas1/agricuture-crops-production-in-india",
+        "url": "https://www.kaggle.com/datasets/srinivas1/agricuture-crops-production-in-india",
+        "subtitle": "Various Crops Cultivation/Production",
+        "totalbytes": 23364
+    },
+    {
+        "id": 117,
+        "ref": "miroslavsabo/young-people-survey",
+        "url": "https://www.kaggle.com/datasets/miroslavsabo/young-people-survey",
+        "subtitle": "Explore the preferences, interests, habits, opinions, and fears of young people",
+        "totalbytes": 85769
+    },
+    {
+        "id": 2355600,
+        "ref": "iamsouravbanerjee/house-rent-prediction-dataset",
+        "url": "https://www.kaggle.com/datasets/iamsouravbanerjee/house-rent-prediction-dataset",
+        "subtitle": "Renting Insights: House Rent Prediction Dataset with 4700+ Listings",
+        "totalbytes": 84399
+    },
+    {
+        "id": 748584,
+        "ref": "mathurinache/world-happiness-report",
+        "url": "https://www.kaggle.com/datasets/mathurinache/world-happiness-report",
+        "subtitle": "Bliss scored agreeing to financial, social, etc.",
+        "totalbytes": 69046
+    },
+    {
+        "id": 1749954,
+        "ref": "iamsouravbanerjee/nifty50-stocks-dataset",
+        "url": "https://www.kaggle.com/datasets/iamsouravbanerjee/nifty50-stocks-dataset",
+        "subtitle": "NIFTY-50 Stocks: Comprehensive Dataset from India's Top Companies on the NSE",
+        "totalbytes": 2707
+    },
+    {
+        "id": 1760177,
+        "ref": "patelris/crop-yield-prediction-dataset",
+        "url": "https://www.kaggle.com/datasets/patelris/crop-yield-prediction-dataset",
+        "subtitle": "Predicting crop yield of 10 most consumed crops in 🌏",
+        "totalbytes": 981807
+    },
+    {
+        "id": 2464386,
+        "ref": "pantanjali/unemployment-dataset",
+        "url": "https://www.kaggle.com/datasets/pantanjali/unemployment-dataset",
+        "subtitle": "Country's unemployment rate from past 31 years",
+        "totalbytes": 17093
+    },
+    {
+        "id": 131684,
+        "ref": "thammuio/all-agriculture-related-datasets-for-india",
+        "url": "https://www.kaggle.com/datasets/thammuio/all-agriculture-related-datasets-for-india",
+        "subtitle": "Indian Agriculture Data to help the Farmers, Value Chain, and the Economy",
+        "totalbytes": 27252
+    },
+    {
+        "id": 2709,
+        "ref": "dansbecker/melbourne-housing-snapshot",
+        "url": "https://www.kaggle.com/datasets/dansbecker/melbourne-housing-snapshot",
+        "subtitle": "Snapshot of Tony Pino's Melbourne Housing Dataset",
+        "totalbytes": 461423
+    },
+    {
+        "id": 5227,
+        "ref": "camnugent/california-housing-prices",
+        "url": "https://www.kaggle.com/datasets/camnugent/california-housing-prices",
+        "subtitle": "Median house prices for California districts derived from the 1990 census.",
+        "totalbytes": 409382
+    },
+    {
+        "id": 46927,
+        "ref": "shree1992/housedata",
+        "url": "https://www.kaggle.com/datasets/shree1992/housedata",
+        "subtitle": "Predicting the house price ",
+        "totalbytes": 442471
+    },
+    {
+        "id": 33225,
+        "ref": "passnyc/data-science-for-good",
+        "url": "https://www.kaggle.com/datasets/passnyc/data-science-for-good",
+        "subtitle": "Help PASSNYC determine which schools need their services the most",
+        "totalbytes": 167791
+    },
+    {
+        "id": 2355600,
+        "ref": "iamsouravbanerjee/house-rent-prediction-dataset",
+        "url": "https://www.kaggle.com/datasets/iamsouravbanerjee/house-rent-prediction-dataset",
+        "subtitle": "Renting Insights: House Rent Prediction Dataset with 4700+ Listings",
+        "totalbytes": 84399
+    },
+    {
+        "id": 4471,
+        "ref": "janiobachmann/bank-marketing-dataset",
+        "url": "https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset",
+        "subtitle": "Predicting Term Deposit Suscriptions",
+        "totalbytes": 145725
+    },
+    {
+        "id": 531,
+        "ref": "uciml/german-credit",
+        "url": "https://www.kaggle.com/datasets/uciml/german-credit",
+        "subtitle": "Credit classification",
+        "totalbytes": 11160
+    },
+    {
+        "id": 30368,
+        "ref": "henriqueyamahata/bank-marketing",
+        "url": "https://www.kaggle.com/datasets/henriqueyamahata/bank-marketing",
+        "subtitle": "source: https://archive.ics.uci.edu/ml/datasets/bank+marketing",
+        "totalbytes": 402740
+    },
+    {
+        "id": 1859421,
+        "ref": "yasserh/housing-prices-dataset",
+        "url": "https://www.kaggle.com/datasets/yasserh/housing-prices-dataset",
+        "subtitle": "Housing Prices Prediction - Regression Problem",
+        "totalbytes": 4740
+    },
+    {
+        "id": 898072,
+        "ref": "arslanali4343/real-estate-dataset",
+        "url": "https://www.kaggle.com/datasets/arslanali4343/real-estate-dataset",
+        "subtitle": "Dragon Real Estate - Price Predictor",
+        "totalbytes": 11993
+    },
+    {
+        "id": 223954,
+        "ref": "prakharrathi25/banking-dataset-marketing-targets",
+        "url": "https://www.kaggle.com/datasets/prakharrathi25/banking-dataset-marketing-targets",
+        "subtitle": "Banking Dataset of different customers to predict if they will convert or not. ",
+        "totalbytes": 590269
+    },
+    {
+        "id": 1381830,
+        "ref": "fedesoriano/the-boston-houseprice-data",
+        "url": "https://www.kaggle.com/datasets/fedesoriano/the-boston-houseprice-data",
+        "subtitle": "The Boston House-Price Data",
+        "totalbytes": 12581
+    },
+    {
+        "id": 4037188,
+        "ref": "muhammadbinimran/housing-price-prediction-data",
+        "url": "https://www.kaggle.com/datasets/muhammadbinimran/housing-price-prediction-data",
+        "subtitle": "Unleash Your Data Science Skills with a Diverse Dataset",
+        "totalbytes": 780809
+    },
+    {
+        "id": 1379,
+        "ref": "schirmerchad/bostonhoustingmlnd",
+        "url": "https://www.kaggle.com/datasets/schirmerchad/bostonhoustingmlnd",
+        "subtitle": "Concerns housing values in suburbs of Boston",
+        "totalbytes": 4454
+    },
+    {
+        "id": 108980,
+        "ref": "dansbecker/home-data-for-ml-course",
+        "url": "https://www.kaggle.com/datasets/dansbecker/home-data-for-ml-course",
+        "subtitle": "Data for Learn ML Course. Same as the Housing Price Getting Started Competition",
+        "totalbytes": 96211
+    },
+    {
+        "id": 2709,
+        "ref": "dansbecker/melbourne-housing-snapshot",
+        "url": "https://www.kaggle.com/datasets/dansbecker/melbourne-housing-snapshot",
+        "subtitle": "Snapshot of Tony Pino's Melbourne Housing Dataset",
+        "totalbytes": 461423
+    },
+    {
+        "id": 5227,
+        "ref": "camnugent/california-housing-prices",
+        "url": "https://www.kaggle.com/datasets/camnugent/california-housing-prices",
+        "subtitle": "Median house prices for California districts derived from the 1990 census.",
+        "totalbytes": 409382
+    },
+    {
+        "id": 46927,
+        "ref": "shree1992/housedata",
+        "url": "https://www.kaggle.com/datasets/shree1992/housedata",
+        "subtitle": "Predicting the house price ",
+        "totalbytes": 442471
+    },
+    {
+        "id": 1859421,
+        "ref": "yasserh/housing-prices-dataset",
+        "url": "https://www.kaggle.com/datasets/yasserh/housing-prices-dataset",
+        "subtitle": "Housing Prices Prediction - Regression Problem",
+        "totalbytes": 4740
+    },
+    {
+        "id": 88705,
+        "ref": "quantbruce/real-estate-price-prediction",
+        "url": "https://www.kaggle.com/datasets/quantbruce/real-estate-price-prediction",
+        "subtitle": "regression analysis, mutiple regression,linear regression, prediction ",
+        "totalbytes": 7143
+    },
+    {
+        "id": 898072,
+        "ref": "arslanali4343/real-estate-dataset",
+        "url": "https://www.kaggle.com/datasets/arslanali4343/real-estate-dataset",
+        "subtitle": "Dragon Real Estate - Price Predictor",
+        "totalbytes": 11993
+    },
+    {
+        "id": 1381830,
+        "ref": "fedesoriano/the-boston-houseprice-data",
+        "url": "https://www.kaggle.com/datasets/fedesoriano/the-boston-houseprice-data",
+        "subtitle": "The Boston House-Price Data",
+        "totalbytes": 12581
+    },
+    {
+        "id": 1379,
+        "ref": "schirmerchad/bostonhoustingmlnd",
+        "url": "https://www.kaggle.com/datasets/schirmerchad/bostonhoustingmlnd",
+        "subtitle": "Concerns housing values in suburbs of Boston",
+        "totalbytes": 4454
+    },
+    {
+        "id": 85351,
+        "ref": "russellyates88/suicide-rates-overview-1985-to-2016",
+        "url": "https://www.kaggle.com/datasets/russellyates88/suicide-rates-overview-1985-to-2016",
+        "subtitle": "Compares socio-economic info with suicide rates by year and country",
+        "totalbytes": 406636
+    },
+    {
+        "id": 231310,
+        "ref": "jealousleopard/goodreadsbooks",
+        "url": "https://www.kaggle.com/datasets/jealousleopard/goodreadsbooks",
+        "subtitle": "comprehensive list of books listed in goodreads",
+        "totalbytes": 637338
+    },
+    {
+        "id": 2709,
+        "ref": "dansbecker/melbourne-housing-snapshot",
+        "url": "https://www.kaggle.com/datasets/dansbecker/melbourne-housing-snapshot",
+        "subtitle": "Snapshot of Tony Pino's Melbourne Housing Dataset",
+        "totalbytes": 461423
+    },
+    {
+        "id": 1019790,
+        "ref": "arashnic/hr-analytics-job-change-of-data-scientists",
+        "url": "https://www.kaggle.com/datasets/arashnic/hr-analytics-job-change-of-data-scientists",
+        "subtitle": "Predict who will move to a new job ",
+        "totalbytes": 301600
+    },
+    {
+        "id": 117,
+        "ref": "miroslavsabo/young-people-survey",
+        "url": "https://www.kaggle.com/datasets/miroslavsabo/young-people-survey",
+        "subtitle": "Explore the preferences, interests, habits, opinions, and fears of young people",
+        "totalbytes": 85769
+    },
+    {
+        "id": 5195702,
+        "ref": "rabieelkharoua/students-performance-dataset",
+        "url": "https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset",
+        "subtitle": "Academic Success Factors in High School Students",
+        "totalbytes": 67743
+    },
+    {
+        "id": 4527983,
+        "ref": "sudarshan24byte/online-food-dataset",
+        "url": "https://www.kaggle.com/datasets/sudarshan24byte/online-food-dataset",
+        "subtitle": "Demographics & Locations in Online Food Ordering",
+        "totalbytes": 3453
+    },
+    {
+        "id": 35,
+        "ref": "annavictoria/speed-dating-experiment",
+        "url": "https://www.kaggle.com/datasets/annavictoria/speed-dating-experiment",
+        "subtitle": "What attributes influence the selection of a romantic partner?",
+        "totalbytes": 382475
+    },
+    {
+        "id": 33225,
+        "ref": "passnyc/data-science-for-good",
+        "url": "https://www.kaggle.com/datasets/passnyc/data-science-for-good",
+        "subtitle": "Help PASSNYC determine which schools need their services the most",
+        "totalbytes": 167791
+    },
+    {
+        "id": 225,
+        "ref": "uciml/adult-census-income",
+        "url": "https://www.kaggle.com/datasets/uciml/adult-census-income",
+        "subtitle": "Predict whether income exceeds $50K/yr based on census data",
+        "totalbytes": 460936
+    },
+    {
+        "id": 916586,
+        "ref": "andrewmvd/fetal-health-classification",
+        "url": "https://www.kaggle.com/datasets/andrewmvd/fetal-health-classification",
+        "subtitle": "Classify the health of a fetus as Normal, Suspect or Pathological using CTG data",
+        "totalbytes": 46932
+    },
+    {
+        "id": 48115,
+        "ref": "szamil/who-suicide-statistics",
+        "url": "https://www.kaggle.com/datasets/szamil/who-suicide-statistics",
+        "subtitle": "Basic historical (1979-2016) data by country, year and demographic groups",
+        "totalbytes": 311347
+    },
+    {
+        "id": 98271,
+        "ref": "justinas/nba-players-data",
+        "url": "https://www.kaggle.com/datasets/justinas/nba-players-data",
+        "subtitle": "Biometric, biographic and basic box score stats from 1996 to 2022 season",
+        "totalbytes": 577071
+    },
+    {
+        "id": 1481754,
+        "ref": "aprabowo/indonesia-tourism-destination",
+        "url": "https://www.kaggle.com/datasets/aprabowo/indonesia-tourism-destination",
+        "subtitle": " The dataset contains ~400 tourist destinations data",
+        "totalbytes": 162193
+    },
+    {
+        "id": 3566208,
+        "ref": "imtkaggleteam/tourism",
+        "url": "https://www.kaggle.com/datasets/imtkaggleteam/tourism",
+        "subtitle": "An opportunity for sustainable development",
+        "totalbytes": 809187
+    },
+    {
+        "id": 269522,
+        "ref": "sid321axn/audit-data",
+        "url": "https://www.kaggle.com/datasets/sid321axn/audit-data",
+        "subtitle": "Audit Risk dataset for classifying fraudulent firms",
+        "totalbytes": 28265
+    },
+    {
+        "id": 886622,
+        "ref": "mpwolke/cusersmarildownloadsexposurecsv",
+        "url": "https://www.kaggle.com/datasets/mpwolke/cusersmarildownloadsexposurecsv",
+        "subtitle": "Covid-19 Economic Exposure Index",
+        "totalbytes": 67119
+    },
+    {
+        "id": 4244227,
+        "ref": "marouandaghmoumi/dropout-and-success-student-data-analysis",
+        "url": "https://www.kaggle.com/datasets/marouandaghmoumi/dropout-and-success-student-data-analysis",
+        "subtitle": "Exploring the Impact of Dropout Rates on Student Success",
+        "totalbytes": 89319
+    },
+    {
+        "id": 2660060,
+        "ref": "fuarresvij/bali-popular-destination-for-tourist-2022",
+        "url": "https://www.kaggle.com/datasets/fuarresvij/bali-popular-destination-for-tourist-2022",
+        "subtitle": "Bali Popular Destination for Tourist 2022",
+        "totalbytes": 8400
+    },
+    {
+        "id": 3620639,
+        "ref": "adityakishor1/all-countries-details",
+        "url": "https://www.kaggle.com/datasets/adityakishor1/all-countries-details",
+        "subtitle": "All Details by countries (Globally)",
+        "totalbytes": 44305
+    },
+    {
+        "id": 3561515,
+        "ref": "bhanupratapbiswas/weather-data",
+        "url": "https://www.kaggle.com/datasets/bhanupratapbiswas/weather-data",
+        "subtitle": "Understanding and Utilizing Weather Data💧 🌊💦",
+        "totalbytes": 102930
+    },
+    {
+        "id": 4731311,
+        "ref": "mikhail1681/student-performance-pip",
+        "url": "https://www.kaggle.com/datasets/mikhail1681/student-performance-pip",
+        "subtitle": "Student performance in higher education",
+        "totalbytes": 107987
+    },
+    {
+        "id": 2500978,
+        "ref": "madhurpant/world-economic-data",
+        "url": "https://www.kaggle.com/datasets/madhurpant/world-economic-data",
+        "subtitle": "Corruption, Tourism, Unemployment and Cost of Living all around the World.",
+        "totalbytes": 5165
+    },
+    {
+        "id": 585472,
+        "ref": "lisphilar/covid19-dataset-in-japan",
+        "url": "https://www.kaggle.com/datasets/lisphilar/covid19-dataset-in-japan",
+        "subtitle": "Number of Novel Corona Virus 2019 cases in Japan",
+        "totalbytes": 817038
+    },
+    {
+        "id": 4900378,
+        "ref": "danishammar/top-100-cities-weather-dataset",
+        "url": "https://www.kaggle.com/datasets/danishammar/top-100-cities-weather-dataset",
+        "subtitle": "Unlock Insights with Extensive Weather Data for 100 Major Cities",
+        "totalbytes": 3186
+    },
+    {
+        "id": 3561926,
+        "ref": "ourfuture/gdp-of-all-country-2023",
+        "url": "https://www.kaggle.com/datasets/ourfuture/gdp-of-all-country-2023",
+        "subtitle": "Gross Domestic Product (GDP) 2023",
+        "totalbytes": 16608
+    },
+    {
+        "id": 3997526,
+        "ref": "ddosad/customer-behaviour-tourism-portal",
+        "url": "https://www.kaggle.com/datasets/ddosad/customer-behaviour-tourism-portal",
+        "subtitle": "Explore User Patterns on Social Media Page  : EDA & Classification",
+        "totalbytes": 240763
+    },
+    {
+        "id": 4694688,
+        "ref": "kanchana1990/harvard-university-ratings-and-reviews",
+        "url": "https://www.kaggle.com/datasets/kanchana1990/harvard-university-ratings-and-reviews",
+        "subtitle": "Inside Harvard: Uncovering Insights Through Ratings and Reviews",
+        "totalbytes": 486485
+    },
+    {
+        "id": 1067,
+        "ref": "pavansubhasht/ibm-hr-analytics-attrition-dataset",
+        "url": "https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset",
+        "subtitle": "Predict attrition of your valuable employees",
+        "totalbytes": 51314
+    },
+    {
+        "id": 251,
+        "ref": "uciml/student-alcohol-consumption",
+        "url": "https://www.kaggle.com/datasets/uciml/student-alcohol-consumption",
+        "subtitle": "Social, gender and study data from secondary school students",
+        "totalbytes": 18868
+    },
+    {
+        "id": 3668746,
+        "ref": "nelgiriyewithana/top-spotify-songs-2023",
+        "url": "https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023",
+        "subtitle": "Hottest Spotify Hits 🎵",
+        "totalbytes": 48187
+    },
+    {
+        "id": 231310,
+        "ref": "jealousleopard/goodreadsbooks",
+        "url": "https://www.kaggle.com/datasets/jealousleopard/goodreadsbooks",
+        "subtitle": "comprehensive list of books listed in goodreads",
+        "totalbytes": 637338
+    },
+    {
+        "id": 483,
+        "ref": "uciml/sms-spam-collection-dataset",
+        "url": "https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset",
+        "subtitle": "Collection of SMS messages tagged as spam or legitimate",
+        "totalbytes": 215934
+    },
+    {
+        "id": 1967621,
+        "ref": "piterfm/2022-ukraine-russian-war",
+        "url": "https://www.kaggle.com/datasets/piterfm/2022-ukraine-russian-war",
+        "subtitle": "Equipment losses & Death Toll & Military Wounded & Prisoner of War of russians",
+        "totalbytes": 46025
+    },
+    {
+        "id": 7122663,
+        "ref": "jayaantanaath/student-habits-vs-academic-performance",
+        "url": "https://www.kaggle.com/datasets/jayaantanaath/student-habits-vs-academic-performance",
+        "subtitle": "Great for regression, classification, EDA, visualization, and even ML practice.",
+        "totalbytes": 19512
+    },
+    {
+        "id": 7474089,
+        "ref": "rakeshkapilavai/extrovert-vs-introvert-behavior-data",
+        "url": "https://www.kaggle.com/datasets/rakeshkapilavai/extrovert-vs-introvert-behavior-data",
+        "subtitle": "Explore and Predict Social Behaviors and Personality Types",
+        "totalbytes": 31277
+    },
+    {
+        "id": 7381156,
+        "ref": "adilshamim8/social-media-addiction-vs-relationships",
+        "url": "https://www.kaggle.com/datasets/adilshamim8/social-media-addiction-vs-relationships",
+        "subtitle": "A Cross-Country Survey of Usage Patterns, Academic Impact, and Relationship ",
+        "totalbytes": 7851
+    },
+    {
+        "id": 2659407,
+        "ref": "catherinerasgaitis/mxmh-survey-results",
+        "url": "https://www.kaggle.com/datasets/catherinerasgaitis/mxmh-survey-results",
+        "subtitle": "Survey results on music taste and self-reported mental health",
+        "totalbytes": 22912
+    },
+    {
+        "id": 2678,
+        "ref": "loveall/clicks-conversion-tracking",
+        "url": "https://www.kaggle.com/datasets/loveall/clicks-conversion-tracking",
+        "subtitle": "   How to Cluster Customer data for campaign marketing",
+        "totalbytes": 18425
+    },
+    {
+        "id": 1487944,
+        "ref": "arjunprasadsarkhel/2021-olympics-in-tokyo",
+        "url": "https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo",
+        "subtitle": "Data about Athletes, Teams, Coaches, Events",
+        "totalbytes": 356012
+    },
+    {
+        "id": 19728,
+        "ref": "abecklas/fifa-world-cup",
+        "url": "https://www.kaggle.com/datasets/abecklas/fifa-world-cup",
+        "subtitle": "All the results from World Cups",
+        "totalbytes": 357710
+    },
+    {
+        "id": 117,
+        "ref": "miroslavsabo/young-people-survey",
+        "url": "https://www.kaggle.com/datasets/miroslavsabo/young-people-survey",
+        "subtitle": "Explore the preferences, interests, habits, opinions, and fears of young people",
+        "totalbytes": 85769
+    },
+    {
+        "id": 5195702,
+        "ref": "rabieelkharoua/students-performance-dataset",
+        "url": "https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset",
+        "subtitle": "Academic Success Factors in High School Students",
+        "totalbytes": 67743
+    },
+    {
+        "id": 98271,
+        "ref": "justinas/nba-players-data",
+        "url": "https://www.kaggle.com/datasets/justinas/nba-players-data",
+        "subtitle": "Biometric, biographic and basic box score stats from 1996 to 2022 season",
+        "totalbytes": 577071
+    },
+    {
+        "id": 3566603,
+        "ref": "nelgiriyewithana/global-youtube-statistics-2023",
+        "url": "https://www.kaggle.com/datasets/nelgiriyewithana/global-youtube-statistics-2023",
+        "subtitle": "A collection of YouTube giants.",
+        "totalbytes": 61533
+    },
+    {
+        "id": 835308,
+        "ref": "rohitsahoo/sales-forecasting",
+        "url": "https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting",
+        "subtitle": "Predict Sales using Time Series",
+        "totalbytes": 491942
+    },
+    {
+        "id": 312121,
+        "ref": "sumanthvrao/daily-climate-time-series-data",
+        "url": "https://www.kaggle.com/datasets/sumanthvrao/daily-climate-time-series-data",
+        "subtitle": "Daily climate data in the city of Delhi from 2013 to 2017",
+        "totalbytes": 22518
+    },
+    {
+        "id": 376751,
+        "ref": "hmavrodiev/london-bike-sharing-dataset",
+        "url": "https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset",
+        "subtitle": "Historical data for bike sharing in London 'Powered by TfL Open Data'",
+        "totalbytes": 169271
+    },
+    {
+        "id": 12713,
+        "ref": "tobycrabtree/nfl-scores-and-betting-data",
+        "url": "https://www.kaggle.com/datasets/tobycrabtree/nfl-scores-and-betting-data",
+        "subtitle": "Scores and descriptive game info for National Football League games",
+        "totalbytes": 255494
+    },
+    {
+        "id": 47,
+        "ref": "saurograndi/airplane-crashes-since-1908",
+        "url": "https://www.kaggle.com/datasets/saurograndi/airplane-crashes-since-1908",
+        "subtitle": "Full history of airplane crashes throughout the world, from 1908-present",
+        "totalbytes": 577070
+    },
+    {
+        "id": 1686,
+        "ref": "rajanand/rainfall-in-india",
+        "url": "https://www.kaggle.com/datasets/rajanand/rainfall-in-india",
+        "subtitle": "Sub-division wise monthly data for 115 years from 1901-2015.",
+        "totalbytes": 191592
+    },
+    {
+        "id": 1868601,
+        "ref": "ananthr1/weather-prediction",
+        "url": "https://www.kaggle.com/datasets/ananthr1/weather-prediction",
+        "subtitle": "Predicting it will Rain or not using some Weather Conditons..",
+        "totalbytes": 11824
+    },
+    {
+        "id": 835308,
+        "ref": "rohitsahoo/sales-forecasting",
+        "url": "https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting",
+        "subtitle": "Predict Sales using Time Series",
+        "totalbytes": 491942
+    },
+    {
+        "id": 1749954,
+        "ref": "iamsouravbanerjee/nifty50-stocks-dataset",
+        "url": "https://www.kaggle.com/datasets/iamsouravbanerjee/nifty50-stocks-dataset",
+        "subtitle": "NIFTY-50 Stocks: Comprehensive Dataset from India's Top Companies on the NSE",
+        "totalbytes": 2707
+    },
+    {
+        "id": 500872,
+        "ref": "timoboz/tesla-stock-data-from-2010-to-2020",
+        "url": "https://www.kaggle.com/datasets/timoboz/tesla-stock-data-from-2010-to-2020",
+        "subtitle": "How did TSLA do since its inception?",
+        "totalbytes": 47194
+    },
+    {
+        "id": 13720,
+        "ref": "mirichoi0218/insurance",
+        "url": "https://www.kaggle.com/datasets/mirichoi0218/insurance",
+        "subtitle": "Insurance Forecast by using Linear Regression",
+        "totalbytes": 16425
+    },
+    {
+        "id": 1633303,
+        "ref": "agileteam/bigdatacertificationkr",
+        "url": "https://www.kaggle.com/datasets/agileteam/bigdatacertificationkr",
+        "subtitle": "퇴근후딴짓 의 빅데이터 분석기사 실기 (Python, R tutorial code) 커뮤니티",
+        "totalbytes": 284195
+    },
+    {
+        "id": 2013,
+        "ref": "loveall/cervical-cancer-risk-classification",
+        "url": "https://www.kaggle.com/datasets/loveall/cervical-cancer-risk-classification",
+        "subtitle": "prediction of  cancer indicators; Please download; run kernel & upvote",
+        "totalbytes": 9052
+    },
+    {
+        "id": 1291,
+        "ref": "toramky/automobile-dataset",
+        "url": "https://www.kaggle.com/datasets/toramky/automobile-dataset",
+        "subtitle": "Dataset consist of various characteristic of an auto",
+        "totalbytes": 4991
+    },
+    {
+        "id": 8129551,
+        "ref": "mosapabdelghany/medical-insurance-cost-dataset",
+        "url": "https://www.kaggle.com/datasets/mosapabdelghany/medical-insurance-cost-dataset",
+        "subtitle": "Predict health insurance charges based on demographic and lifestyle factors",
+        "totalbytes": 16425
+    },
+    {
+        "id": 615950,
+        "ref": "doaaalsenani/usa-cers-dataset",
+        "url": "https://www.kaggle.com/datasets/doaaalsenani/usa-cers-dataset",
+        "subtitle": "Online Car Auction in North American",
+        "totalbytes": 67478
+    },
+    {
+        "id": 22304,
+        "ref": "cms/cms-medicare",
+        "url": "https://www.kaggle.com/datasets/cms/cms-medicare",
+        "subtitle": "Medicare Data (BigQuery Dataset)",
+        "totalbytes": 0
+    },
+    {
+        "id": 13996,
+        "ref": "blastchar/telco-customer-churn",
+        "url": "https://www.kaggle.com/datasets/blastchar/telco-customer-churn",
+        "subtitle": "Focused customer retention programs",
+        "totalbytes": 175758
+    },
+    {
+        "id": 1546318,
+        "ref": "imakash3011/customer-personality-analysis",
+        "url": "https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis",
+        "subtitle": "Analysis of company's ideal customers",
+        "totalbytes": 63450
+    },
+    {
+        "id": 982921,
+        "ref": "sakshigoyal7/credit-card-customers",
+        "url": "https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers",
+        "subtitle": "Predict Churning customers",
+        "totalbytes": 387771
+    },
+    {
+        "id": 42674,
+        "ref": "vjchoudhary7/customer-segmentation-tutorial-in-python",
+        "url": "https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python",
+        "subtitle": "Market Basket Analysis",
+        "totalbytes": 1583
+    },
+    {
+        "id": 435,
+        "ref": "kyanyoga/sample-sales-data",
+        "url": "https://www.kaggle.com/datasets/kyanyoga/sample-sales-data",
+        "subtitle": "Denormalize Sales Data : Segmentation, Clustering, Shipping, etc.",
+        "totalbytes": 79402
+    },
+    {
+        "id": 1940216,
+        "ref": "vivek468/superstore-dataset-final",
+        "url": "https://www.kaggle.com/datasets/vivek468/superstore-dataset-final",
+        "subtitle": "Dataset containing Sales & Profits of a Superstore",
+        "totalbytes": 562846
+    },
+    {
+        "id": 3808038,
+        "ref": "iamsouravbanerjee/customer-shopping-trends-dataset",
+        "url": "https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset",
+        "subtitle": "Journey into Consumer Insights and Retail Evolution with Synthetic Data",
+        "totalbytes": 149846
+    },
+    {
+        "id": 4527983,
+        "ref": "sudarshan24byte/online-food-dataset",
+        "url": "https://www.kaggle.com/datasets/sudarshan24byte/online-food-dataset",
+        "subtitle": "Demographics & Locations in Online Food Ordering",
+        "totalbytes": 3453
+    },
+    {
+        "id": 1067,
+        "ref": "pavansubhasht/ibm-hr-analytics-attrition-dataset",
+        "url": "https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset",
+        "subtitle": "Predict attrition of your valuable employees",
+        "totalbytes": 51314
+    },
+    {
+        "id": 1019790,
+        "ref": "arashnic/hr-analytics-job-change-of-data-scientists",
+        "url": "https://www.kaggle.com/datasets/arashnic/hr-analytics-job-change-of-data-scientists",
+        "subtitle": "Predict who will move to a new job ",
+        "totalbytes": 301600
+    },
+    {
+        "id": 1632,
+        "ref": "rhuebner/human-resources-data-set",
+        "url": "https://www.kaggle.com/datasets/rhuebner/human-resources-data-set",
+        "subtitle": "Dataset used for learning data visualization and basic regression",
+        "totalbytes": 17041
+    },
+    {
+        "id": 703056,
+        "ref": "parulpandey/palmer-archipelago-antarctica-penguin-data",
+        "url": "https://www.kaggle.com/datasets/parulpandey/palmer-archipelago-antarctica-penguin-data",
+        "subtitle": "Drop in replacement for Iris Dataset",
+        "totalbytes": 11558
+    },
+    {
+        "id": 3707753,
+        "ref": "tawfikelmetwally/employee-dataset",
+        "url": "https://www.kaggle.com/datasets/tawfikelmetwally/employee-dataset",
+        "subtitle": "Employee data for classification task",
+        "totalbytes": 18961
+    },
+    {
+        "id": 391127,
+        "ref": "deepu1109/star-dataset",
+        "url": "https://www.kaggle.com/datasets/deepu1109/star-dataset",
+        "subtitle": "A 6 class star dataset for star classification with Deep Learned approaches",
+        "totalbytes": 3238
+    },
+    {
+        "id": 841679,
+        "ref": "rishidamarla/heart-disease-prediction",
+        "url": "https://www.kaggle.com/datasets/rishidamarla/heart-disease-prediction",
+        "subtitle": "Predicting probability of heart disease in patients.",
+        "totalbytes": 3491
+    },
+    {
+        "id": 656,
+        "ref": "HRAnalyticRepository/employee-attrition-data",
+        "url": "https://www.kaggle.com/datasets/HRAnalyticRepository/employee-attrition-data",
+        "subtitle": "Can you forecast employee attrition?",
+        "totalbytes": 513202
+    },
+    {
+        "id": 11142,
+        "ref": "giripujar/hr-analytics",
+        "url": "https://www.kaggle.com/datasets/giripujar/hr-analytics",
+        "subtitle": "",
+        "totalbytes": 113627
+    },
+    {
+        "id": 2480666,
+        "ref": "rishikeshkonapure/hr-analytics-prediction",
+        "url": "https://www.kaggle.com/datasets/rishikeshkonapure/hr-analytics-prediction",
+        "subtitle": "Employee attrition prediction ",
+        "totalbytes": 51290
+    },
+    {
+        "id": 28865,
+        "ref": "marklvl/bike-sharing-dataset",
+        "url": "https://www.kaggle.com/datasets/marklvl/bike-sharing-dataset",
+        "subtitle": "Rental bikes in 2011 and 2012 with corresponding weather and seasonal info",
+        "totalbytes": 586498
+    },
+    {
+        "id": 2472819,
+        "ref": "whenamancodes/hr-employee-attrition",
+        "url": "https://www.kaggle.com/datasets/whenamancodes/hr-employee-attrition",
+        "subtitle": "Predict attrition of your valuable employees",
+        "totalbytes": 51279
+    },
+    {
+        "id": 5747601,
+        "ref": "waqi786/remote-work-and-mental-health",
+        "url": "https://www.kaggle.com/datasets/waqi786/remote-work-and-mental-health",
+        "subtitle": "Analyzing Mental Well-being in a Remote Work Era",
+        "totalbytes": 95200
+    },
+    {
+        "id": 3620223,
+        "ref": "ravindrasinghrana/employeedataset",
+        "url": "https://www.kaggle.com/datasets/ravindrasinghrana/employeedataset",
+        "subtitle": "Employee Dataset ( Training, Survey, Performance, Recruitment, Attendance)",
+        "totalbytes": 532825
+    },
+    {
+        "id": 9366,
+        "ref": "residentmario/ramen-ratings",
+        "url": "https://www.kaggle.com/datasets/residentmario/ramen-ratings",
+        "subtitle": "Over 2500 ramen ratings",
+        "totalbytes": 40762
+    },
+    {
+        "id": 383055,
+        "ref": "hellbuoy/car-price-prediction",
+        "url": "https://www.kaggle.com/datasets/hellbuoy/car-price-prediction",
+        "subtitle": "Predicting the Prices of cars using RFE and VIF",
+        "totalbytes": 18523
+    },
+    {
+        "id": 1697740,
+        "ref": "shivamb/machine-predictive-maintenance-classification",
+        "url": "https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification",
+        "subtitle": "Dataset to predict machine failure (binary) and type (multiclass)",
+        "totalbytes": 139819
+    },
+    {
+        "id": 3169086,
+        "ref": "harshsingh2209/supply-chain-analysis",
+        "url": "https://www.kaggle.com/datasets/harshsingh2209/supply-chain-analysis",
+        "subtitle": "Become a Supply Chain Management Pro !",
+        "totalbytes": 9340
+    },
+    {
+        "id": 5306169,
+        "ref": "utsavdey1410/food-nutrition-dataset",
+        "url": "https://www.kaggle.com/datasets/utsavdey1410/food-nutrition-dataset",
+        "subtitle": "Comprehensive Dataset for Advanced Predictive Modeling.",
+        "totalbytes": 710871
+    },
+    {
+        "id": 2464386,
+        "ref": "pantanjali/unemployment-dataset",
+        "url": "https://www.kaggle.com/datasets/pantanjali/unemployment-dataset",
+        "subtitle": "Country's unemployment rate from past 31 years",
+        "totalbytes": 17093
+    },
+    {
+        "id": 19712,
+        "ref": "ihmstefanini/industrial-safety-and-health-analytics-database",
+        "url": "https://www.kaggle.com/datasets/ihmstefanini/industrial-safety-and-health-analytics-database",
+        "subtitle": "Industrial labor accident data",
+        "totalbytes": 163990
+    },
+    {
+        "id": 3742543,
+        "ref": "taeefnajib/used-car-price-prediction-dataset",
+        "url": "https://www.kaggle.com/datasets/taeefnajib/used-car-price-prediction-dataset",
+        "subtitle": "Predict the price of a used vehicle",
+        "totalbytes": 112006
+    },
+    {
+        "id": 3057690,
+        "ref": "arnabchaki/laptop-price-prediction",
+        "url": "https://www.kaggle.com/datasets/arnabchaki/laptop-price-prediction",
+        "subtitle": "Predict the prices of laptop using different features and specifications.",
+        "totalbytes": 29530
+    },
+    {
+        "id": 78342,
+        "ref": "olistbr/marketing-funnel-olist",
+        "url": "https://www.kaggle.com/datasets/olistbr/marketing-funnel-olist",
+        "subtitle": "8k leads, closed deals and connection to 100k orders",
+        "totalbytes": 284562
+    },
+    {
+        "id": 3169086,
+        "ref": "harshsingh2209/supply-chain-analysis",
+        "url": "https://www.kaggle.com/datasets/harshsingh2209/supply-chain-analysis",
+        "subtitle": "Become a Supply Chain Management Pro !",
+        "totalbytes": 9340
+    },
+    {
+        "id": 12409,
+        "ref": "crawford/cargo-2000-dataset",
+        "url": "https://www.kaggle.com/datasets/crawford/cargo-2000-dataset",
+        "subtitle": "A Transport and Logistics Case Study Data Set ",
+        "totalbytes": 319623
+    },
+    {
+        "id": 3348682,
+        "ref": "amirmotefaker/supply-chain-dataset",
+        "url": "https://www.kaggle.com/datasets/amirmotefaker/supply-chain-dataset",
+        "subtitle": "The dataset solve case study on Supply Chain Analysis",
+        "totalbytes": 9340
+    },
+    {
+        "id": 7983410,
+        "ref": "rohitgrewal/restaurant-sales-data",
+        "url": "https://www.kaggle.com/datasets/rohitgrewal/restaurant-sales-data",
+        "subtitle": "Sales data of a restaurant company from different cities (countries)",
+        "totalbytes": 2237
+    },
+    {
+        "id": 2794088,
+        "ref": "justin2028/us-immigration-statistics-1980-2021",
+        "url": "https://www.kaggle.com/datasets/justin2028/us-immigration-statistics-1980-2021",
+        "subtitle": "Yearly refugee arrivals and other data from the Department of Homeland Security",
+        "totalbytes": 1468
+    },
+    {
+        "id": 3437451,
+        "ref": "bhanupratapbiswas/shark-tank-indian-companies",
+        "url": "https://www.kaggle.com/datasets/bhanupratapbiswas/shark-tank-indian-companies",
+        "subtitle": "\"Shark Tank\" called \"Shark Tank India\" ",
+        "totalbytes": 1915
+    },
+    {
+        "id": 2407453,
+        "ref": "surajjha101/top-defense-manufacturers",
+        "url": "https://www.kaggle.com/datasets/surajjha101/top-defense-manufacturers",
+        "subtitle": "Revenue of Top defense manufacturing companies",
+        "totalbytes": 5208
+    },
+    {
+        "id": 1126618,
+        "ref": "zusmani/pakistan-cities-and-postal-codes",
+        "url": "https://www.kaggle.com/datasets/zusmani/pakistan-cities-and-postal-codes",
+        "subtitle": "Most Comprehensive List",
+        "totalbytes": 43725
+    },
+    {
+        "id": 5228965,
+        "ref": "rabieelkharoua/predicting-manufacturing-defects-dataset",
+        "url": "https://www.kaggle.com/datasets/rabieelkharoua/predicting-manufacturing-defects-dataset",
+        "subtitle": "Insights into Factors Influencing Defect Rates and Production Efficiency",
+        "totalbytes": 371525
+    },
+    {
+        "id": 6360611,
+        "ref": "denkuznetz/food-delivery-time-prediction",
+        "url": "https://www.kaggle.com/datasets/denkuznetz/food-delivery-time-prediction",
+        "subtitle": "Optimize Food Delivery: Predict Times with Real-World Data!",
+        "totalbytes": 11861
+    },
+    {
+        "id": 5549809,
+        "ref": "willianoliveiragibin/olympics-2024",
+        "url": "https://www.kaggle.com/datasets/willianoliveiragibin/olympics-2024",
+        "subtitle": "Having previously hosted the 1900 and 1924 Games, Paris did not attempt.",
+        "totalbytes": 360874
+    },
+    {
+        "id": 1387124,
+        "ref": "tjkyner/global-air-transport-data",
+        "url": "https://www.kaggle.com/datasets/tjkyner/global-air-transport-data",
+        "subtitle": "Data on carrier departures, freight weights, passengers carried, and more",
+        "totalbytes": 63228
+    },
+    {
+        "id": 22268,
+        "ref": "bigquery/google-analytics-sample",
+        "url": "https://www.kaggle.com/datasets/bigquery/google-analytics-sample",
+        "subtitle": "Google Analytics Sample (BigQuery)",
+        "totalbytes": 0
+    },
+    {
+        "id": 376751,
+        "ref": "hmavrodiev/london-bike-sharing-dataset",
+        "url": "https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset",
+        "subtitle": "Historical data for bike sharing in London 'Powered by TfL Open Data'",
+        "totalbytes": 169271
+    },
+    {
+        "id": 5837,
+        "ref": "usdot/nhtsa-traffic-fatalities",
+        "url": "https://www.kaggle.com/datasets/usdot/nhtsa-traffic-fatalities",
+        "subtitle": "Fatal car crashes for 2015-2016",
+        "totalbytes": 0
+    },
+    {
+        "id": 12603,
+        "ref": "kumarajarshi/life-expectancy-who",
+        "url": "https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who",
+        "subtitle": "Statistical Analysis on factors influencing Life Expectancy",
+        "totalbytes": 121472
+    },
+    {
+        "id": 19712,
+        "ref": "ihmstefanini/industrial-safety-and-health-analytics-database",
+        "url": "https://www.kaggle.com/datasets/ihmstefanini/industrial-safety-and-health-analytics-database",
+        "subtitle": "Industrial labor accident data",
+        "totalbytes": 163990
+    },
+    {
+        "id": 695144,
+        "ref": "twinkle0705/state-wise-power-consumption-in-india",
+        "url": "https://www.kaggle.com/datasets/twinkle0705/state-wise-power-consumption-in-india",
+        "subtitle": "Time series analysis of power consumption in different states of India(2019-20)",
+        "totalbytes": 126176
+    },
+    {
+        "id": 479728,
+        "ref": "mpwolke/cusersmarildownloadsdioxidecsv",
+        "url": "https://www.kaggle.com/datasets/mpwolke/cusersmarildownloadsdioxidecsv",
+        "subtitle": "Queensland greenhouse gas emissions from 1990–2016. ",
+        "totalbytes": 945
+    },
+    {
+        "id": 7871,
+        "ref": "zusmani/pakistanintellectualcapitalcs",
+        "url": "https://www.kaggle.com/datasets/zusmani/pakistanintellectualcapitalcs",
+        "subtitle": "Teaching Computer Science ",
+        "totalbytes": 123389
+    },
+    {
+        "id": 5348424,
+        "ref": "melissamonfared/bloomington-accidents",
+        "url": "https://www.kaggle.com/datasets/melissamonfared/bloomington-accidents",
+        "subtitle": "Bloomington Police Department Calls for Service that reported an accident",
+        "totalbytes": 502619
+    },
+    {
+        "id": 3701634,
+        "ref": "mjshri23/life-expectancy-and-socio-economic-world-bank",
+        "url": "https://www.kaggle.com/datasets/mjshri23/life-expectancy-and-socio-economic-world-bank",
+        "subtitle": "Global Life Expectancy with Socio-Economic variables 2000-2019",
+        "totalbytes": 172517
+    },
+    {
+        "id": 894,
+        "ref": "unsdsn/world-happiness",
+        "url": "https://www.kaggle.com/datasets/unsdsn/world-happiness",
+        "subtitle": "Happiness scored according to economic production, social support, etc.",
+        "totalbytes": 37692
+    },
+    {
+        "id": 478,
+        "ref": "uciml/mushroom-classification",
+        "url": "https://www.kaggle.com/datasets/uciml/mushroom-classification",
+        "subtitle": "Safe to eat or deadly poison?",
+        "totalbytes": 35057
+    },
+    {
+        "id": 22090,
+        "ref": "chicago/chicago-crime",
+        "url": "https://www.kaggle.com/datasets/chicago/chicago-crime",
+        "subtitle": "Chicago Crime (BigQuery Dataset)",
+        "totalbytes": 0
+    },
+    {
+        "id": 1967621,
+        "ref": "piterfm/2022-ukraine-russian-war",
+        "url": "https://www.kaggle.com/datasets/piterfm/2022-ukraine-russian-war",
+        "subtitle": "Equipment losses & Death Toll & Military Wounded & Prisoner of War of russians",
+        "totalbytes": 46025
+    },
+    {
+        "id": 23752,
+        "ref": "fernandol/countries-of-the-world",
+        "url": "https://www.kaggle.com/datasets/fernandol/countries-of-the-world",
+        "subtitle": "Country names linked to region, population, area size, GDP, mortality and more",
+        "totalbytes": 13735
+    },
+    {
+        "id": 316056,
+        "ref": "gustavomodelli/forest-fires-in-brazil",
+        "url": "https://www.kaggle.com/datasets/gustavomodelli/forest-fires-in-brazil",
+        "subtitle": "Number of forest fires reported in Brazil by State",
+        "totalbytes": 31859
+    },
+    {
+        "id": 22090,
+        "ref": "chicago/chicago-crime",
+        "url": "https://www.kaggle.com/datasets/chicago/chicago-crime",
+        "subtitle": "Chicago Crime (BigQuery Dataset)",
+        "totalbytes": 0
+    },
+    {
+        "id": 1815,
+        "ref": "vikrishnan/boston-house-prices",
+        "url": "https://www.kaggle.com/datasets/vikrishnan/boston-house-prices",
+        "subtitle": "Regression predictive modeling machine learning problem from end-to-end Python",
+        "totalbytes": 13146
+    },
+    {
+        "id": 898072,
+        "ref": "arslanali4343/real-estate-dataset",
+        "url": "https://www.kaggle.com/datasets/arslanali4343/real-estate-dataset",
+        "subtitle": "Dragon Real Estate - Price Predictor",
+        "totalbytes": 11993
+    },
+    {
+        "id": 2778,
+        "ref": "zusmani/us-mass-shootings-last-50-years",
+        "url": "https://www.kaggle.com/datasets/zusmani/us-mass-shootings-last-50-years",
+        "subtitle": "Last 50 Years (1966-2021)",
+        "totalbytes": 317763
+    },
+    {
+        "id": 806447,
+        "ref": "ahsen1330/us-police-shootings",
+        "url": "https://www.kaggle.com/datasets/ahsen1330/us-police-shootings",
+        "subtitle": "Prepared for Visualization",
+        "totalbytes": 129365
+    },
+    {
+        "id": 22526,
+        "ref": "LondonDataStore/london-crime",
+        "url": "https://www.kaggle.com/datasets/LondonDataStore/london-crime",
+        "subtitle": "Reported crime in London by borough and LSOA (BigQuery Dataset)",
+        "totalbytes": 0
+    },
+    {
+        "id": 1902,
+        "ref": "sudalairajkumar/indian-startup-funding",
+        "url": "https://www.kaggle.com/datasets/sudalairajkumar/indian-startup-funding",
+        "subtitle": "Funding details of the startups in India",
+        "totalbytes": 122812
+    },
+    {
+        "id": 6057,
+        "ref": "hacker-news/hacker-news",
+        "url": "https://www.kaggle.com/datasets/hacker-news/hacker-news",
+        "subtitle": "All posts from Y Combinator's social news website from 2006 to late 2017",
+        "totalbytes": 0
+    },
+    {
+        "id": 3169086,
+        "ref": "harshsingh2209/supply-chain-analysis",
+        "url": "https://www.kaggle.com/datasets/harshsingh2209/supply-chain-analysis",
+        "subtitle": "Become a Supply Chain Management Pro !",
+        "totalbytes": 9340
+    },
+    {
+        "id": 2316397,
+        "ref": "ramjasmaurya/1-gb-internet-price",
+        "url": "https://www.kaggle.com/datasets/ramjasmaurya/1-gb-internet-price",
+        "subtitle": "1 GB Internet Prices (from cheapest to expensive) across the world. ",
+        "totalbytes": 22513
+    },
+    {
+        "id": 9877,
+        "ref": "jessevent/all-kaggle-datasets",
+        "url": "https://www.kaggle.com/datasets/jessevent/all-kaggle-datasets",
+        "subtitle": "A dataset of Kaggle datasets, so you can explore while you explore",
+        "totalbytes": 398911
+    },
+    {
+        "id": 1786790,
+        "ref": "ramjasmaurya/unicorn-startups",
+        "url": "https://www.kaggle.com/datasets/ramjasmaurya/unicorn-startups",
+        "subtitle": "Startups with 1 billion dollars valuation.",
+        "totalbytes": 37734
+    },
+    {
+        "id": 2609772,
+        "ref": "cedricaubin/ai-ml-salaries",
+        "url": "https://www.kaggle.com/datasets/cedricaubin/ai-ml-salaries",
+        "subtitle": "Data Science job salaries from 2020 to 2023",
+        "totalbytes": 487081
+    },
+    {
+        "id": 876947,
+        "ref": "manishkc06/startup-success-prediction",
+        "url": "https://www.kaggle.com/datasets/manishkc06/startup-success-prediction",
+        "subtitle": "Can you predict if a start-up will succeed or fail?",
+        "totalbytes": 65664
+    },
+    {
+        "id": 1837456,
+        "ref": "ramjasmaurya/best-cities-and-countries-for-startups-in-2021",
+        "url": "https://www.kaggle.com/datasets/ramjasmaurya/best-cities-and-countries-for-startups-in-2021",
+        "subtitle": "Dataset is about the best cities and countries for startups in (2021 & 2022)",
+        "totalbytes": 42612
+    },
+    {
+        "id": 1866450,
+        "ref": "datacertlaboratoria/proyecto-3-segmentacin-de-clientes-en-ecommerce",
+        "url": "https://www.kaggle.com/datasets/datacertlaboratoria/proyecto-3-segmentacin-de-clientes-en-ecommerce",
+        "subtitle": "Utiliza técnicas de segmentación de clientes para optimizar un negocio online",
+        "totalbytes": 447260
+    },
+    {
+        "id": 3185040,
+        "ref": "katerynameleshenko/ai-index",
+        "url": "https://www.kaggle.com/datasets/katerynameleshenko/ai-index",
+        "subtitle": "Seven indicators making sense of AI on a global scale",
+        "totalbytes": 2441
+    },
+    {
+        "id": 1980436,
+        "ref": "deepcontractor/unicorn-companies-dataset",
+        "url": "https://www.kaggle.com/datasets/deepcontractor/unicorn-companies-dataset",
+        "subtitle": "A list of all the current Unicorn Companies in the world",
+        "totalbytes": 42497
+    },
+    {
+        "id": 11262,
+        "ref": "karthickveerakumar/startup-logistic-regression",
+        "url": "https://www.kaggle.com/datasets/karthickveerakumar/startup-logistic-regression",
+        "subtitle": "Machine Learning A - Z",
+        "totalbytes": 1330
+    },
+    {
+        "id": 21716,
+        "ref": "farhanmd29/50-startups",
+        "url": "https://www.kaggle.com/datasets/farhanmd29/50-startups",
+        "subtitle": "",
+        "totalbytes": 1330
+    },
+    {
+        "id": 5315624,
+        "ref": "suvroo/shark-tank-us-dataset-1274-48",
+        "url": "https://www.kaggle.com/datasets/suvroo/shark-tank-us-dataset-1274-48",
+        "subtitle": "Shark Tank US Dataset ",
+        "totalbytes": 77720
+    },
+    {
+        "id": 10128,
+        "ref": "jpmiller/publicassistance",
+        "url": "https://www.kaggle.com/datasets/jpmiller/publicassistance",
+        "subtitle": "Where does it come from, who spends it, who gets it.",
+        "totalbytes": 304041
+    },
+    {
+        "id": 2745,
+        "ref": "danielgrijalvas/movies",
+        "url": "https://www.kaggle.com/datasets/danielgrijalvas/movies",
+        "subtitle": "Four decades of movies",
+        "totalbytes": 433664
+    },
+    {
+        "id": 1866072,
+        "ref": "sanjeetsinghnaik/top-1000-highest-grossing-movies",
+        "url": "https://www.kaggle.com/datasets/sanjeetsinghnaik/top-1000-highest-grossing-movies",
+        "subtitle": "Top 1000 Highest Grossing Holywood Movies",
+        "totalbytes": 126831
+    },
+    {
+        "id": 48024,
+        "ref": "itsmesunil/bank-loan-modelling",
+        "url": "https://www.kaggle.com/datasets/itsmesunil/bank-loan-modelling",
+        "subtitle": "Personal Loan classification problem",
+        "totalbytes": 338875
+    },
+    {
+        "id": 2719,
+        "ref": "uciml/restaurant-data-with-consumer-ratings",
+        "url": "https://www.kaggle.com/datasets/uciml/restaurant-data-with-consumer-ratings",
+        "subtitle": "Data from a restaurant recommender prototype",
+        "totalbytes": 39850
+    },
+    {
+        "id": 2889785,
+        "ref": "rajugc/imdb-top-250-movies-dataset",
+        "url": "https://www.kaggle.com/datasets/rajugc/imdb-top-250-movies-dataset",
+        "subtitle": "The Most Highly Rated Movies on IMDB: A Scraped Dataset of the Top 250",
+        "totalbytes": 52794
+    },
+    {
+        "id": 3495122,
+        "ref": "nelgiriyewithana/countries-of-the-world-2023",
+        "url": "https://www.kaggle.com/datasets/nelgiriyewithana/countries-of-the-world-2023",
+        "subtitle": "A Comprehensive Dataset Empowering In-Depth Analysis and Cross-Country Insights",
+        "totalbytes": 24063
+    },
+    {
+        "id": 2783627,
+        "ref": "ahsan81/hotel-reservations-classification-dataset",
+        "url": "https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset",
+        "subtitle": "Can you predict if customer is going to cancel the reservation ?",
+        "totalbytes": 491063
+    },
+    {
+        "id": 4438189,
+        "ref": "mikhail1681/walmart-sales",
+        "url": "https://www.kaggle.com/datasets/mikhail1681/walmart-sales",
+        "subtitle": "Factors influencing sales of a large retailer",
+        "totalbytes": 125107
+    },
+    {
+        "id": 3795419,
+        "ref": "nelgiriyewithana/billionaires-statistics-dataset",
+        "url": "https://www.kaggle.com/datasets/nelgiriyewithana/billionaires-statistics-dataset",
+        "subtitle": "Exploring the Global Landscape of Success",
+        "totalbytes": 142700
+    },
+    {
+        "id": 6784624,
+        "ref": "atharvasoundankar/chocolate-sales",
+        "url": "https://www.kaggle.com/datasets/atharvasoundankar/chocolate-sales",
+        "subtitle": "A Comprehensive Dataset for Analyzing Chocolate Sales Trends",
+        "totalbytes": 14473
+    },
+    {
+        "id": 2745,
+        "ref": "danielgrijalvas/movies",
+        "url": "https://www.kaggle.com/datasets/danielgrijalvas/movies",
+        "subtitle": "Four decades of movies",
+        "totalbytes": 433664
+    },
+    {
+        "id": 1474,
+        "ref": "PromptCloudHQ/imdb-data",
+        "url": "https://www.kaggle.com/datasets/PromptCloudHQ/imdb-data",
+        "subtitle": "A data set of 1,000 popular movies on IMDB in the last 10 years",
+        "totalbytes": 137366
+    },
+    {
+        "id": 5085377,
+        "ref": "shreyanshverma27/online-sales-dataset-popular-marketplace-data",
+        "url": "https://www.kaggle.com/datasets/shreyanshverma27/online-sales-dataset-popular-marketplace-data",
+        "subtitle": "Global Transactions Across Various Product Categories",
+        "totalbytes": 6938
+    },
+    {
+        "id": 78342,
+        "ref": "olistbr/marketing-funnel-olist",
+        "url": "https://www.kaggle.com/datasets/olistbr/marketing-funnel-olist",
+        "subtitle": "8k leads, closed deals and connection to 100k orders",
+        "totalbytes": 284562
+    },
+    {
+        "id": 3881446,
+        "ref": "zeesolver/consumer-behavior-and-shopping-habits-dataset",
+        "url": "https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset",
+        "subtitle": "E-Commerce Transaction Trends: A Comprehensive Dataset:",
+        "totalbytes": 149850
+    },
+    {
+        "id": 2355600,
+        "ref": "iamsouravbanerjee/house-rent-prediction-dataset",
+        "url": "https://www.kaggle.com/datasets/iamsouravbanerjee/house-rent-prediction-dataset",
+        "subtitle": "Renting Insights: House Rent Prediction Dataset with 4700+ Listings",
+        "totalbytes": 84399
+    },
+    {
+        "id": 178248,
+        "ref": "rodsaldanha/arketing-campaign",
+        "url": "https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign",
+        "subtitle": "Boost the profit of a marketing campaign",
+        "totalbytes": 360296
+    },
+    {
+        "id": 2731425,
+        "ref": "thedevastator/analyzing-credit-card-spending-habits-in-india",
+        "url": "https://www.kaggle.com/datasets/thedevastator/analyzing-credit-card-spending-habits-in-india",
+        "subtitle": "Gender, Location, and Transaction Trends",
+        "totalbytes": 326253
+    },
+    {
+        "id": 6006971,
+        "ref": "valakhorasani/bank-transaction-dataset-for-fraud-detection",
+        "url": "https://www.kaggle.com/datasets/valakhorasani/bank-transaction-dataset-for-fraud-detection",
+        "subtitle": "Detailed Analysis of Transactional Behavior and Anomaly Detection",
+        "totalbytes": 104518
+    },
+    {
+        "id": 3852935,
+        "ref": "willianoliveiragibin/healthcare-insurance",
+        "url": "https://www.kaggle.com/datasets/willianoliveiragibin/healthcare-insurance",
+        "subtitle": "my dataset about insegurance in healthcare in global world in developmente ",
+        "totalbytes": 16425
+    },
+    {
+        "id": 233212,
+        "ref": "noordeen/insurance-premium-prediction",
+        "url": "https://www.kaggle.com/datasets/noordeen/insurance-premium-prediction",
+        "subtitle": "",
+        "totalbytes": 13755
+    },
+    {
+        "id": 7332633,
+        "ref": "adilshamim8/cost-of-international-education",
+        "url": "https://www.kaggle.com/datasets/adilshamim8/cost-of-international-education",
+        "subtitle": "Cost of International Education: Comparative Financial Dataset for Global Study",
+        "totalbytes": 18950
+    },
+    {
+        "id": 4480911,
+        "ref": "mikhail1681/mcdonalds-financial-statements-2002-2022",
+        "url": "https://www.kaggle.com/datasets/mikhail1681/mcdonalds-financial-statements-2002-2022",
+        "subtitle": "Economic performance of the world's largest fast food player over 20 years.",
+        "totalbytes": 1316
+    },
+    {
+        "id": 5327775,
+        "ref": "marianadeem755/global-cost-of-living-rankingsaffordability-index",
+        "url": "https://www.kaggle.com/datasets/marianadeem755/global-cost-of-living-rankingsaffordability-index",
+        "subtitle": "🌍Global Cost of Living Index: Exploring Economic Realities Across Borders🏠💰\"",
+        "totalbytes": 2671
+    },
+    {
+        "id": 4600225,
+        "ref": "rahulvyasm/medical-insurance-cost-prediction",
+        "url": "https://www.kaggle.com/datasets/rahulvyasm/medical-insurance-cost-prediction",
+        "subtitle": "Dataset to Predict Medical Insurance Cost using Machine Learning",
+        "totalbytes": 32383
+    },
+    {
+        "id": 2027131,
+        "ref": "ankanhore545/cost-of-living-index-2022",
+        "url": "https://www.kaggle.com/datasets/ankanhore545/cost-of-living-index-2022",
+        "subtitle": "Analyse the Cost of Living Index for each country in 2022",
+        "totalbytes": 3824
+    },
+    {
+        "id": 6200954,
+        "ref": "heidarmirhajisadati/regional-cost-of-living-analysis",
+        "url": "https://www.kaggle.com/datasets/heidarmirhajisadati/regional-cost-of-living-analysis",
+        "subtitle": "Income and Expense Patterns Worldwide",
+        "totalbytes": 13731
+    },
+    {
+        "id": 563796,
+        "ref": "koryto/countryinfo",
+        "url": "https://www.kaggle.com/datasets/koryto/countryinfo",
+        "subtitle": "Relevant variables that may be required in order to predict COVID's progression.",
+        "totalbytes": 24384
+    },
+    {
+        "id": 6419733,
+        "ref": "umerhaddii/apple-stock-data-2025",
+        "url": "https://www.kaggle.com/datasets/umerhaddii/apple-stock-data-2025",
+        "subtitle": "All time Apple Stock Data from 1980 - 2025",
+        "totalbytes": 308484
     }
 ]

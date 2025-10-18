@@ -3,8 +3,16 @@ import json
 from pydantic import BaseModel
 from typing import List
 
-KEYWORDS = ["retail", "food", "see", "production", "marketing", "finance"]
-MAX_TOTALBYTES = 5*1024*1024
+KEYWORDS = [
+    "retail", "food", "production", "marketing", "finance", "banking", "sales",
+    "ecommerce", "energy", "transport", "education", "health", "hospital",
+    "environment", "pollution", "climate", "agriculture", "economy", "housing",
+    "real estate", "demographics", "tourism", "technology", "social media",
+    "sports", "weather", "stock", "insurance", "customer", "hr", "manufacturing",
+    "logistics", "traffic", "public sector", "government", "crime", "startup",
+    "budget", "revenue", "expenses"
+]
+MAX_TOTALBYTES = 1024*1024
 
 def main():
     total_datasets = []

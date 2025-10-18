@@ -1,0 +1,86 @@
+[
+    {
+        "id": 22268,
+        "ref": "bigquery/google-analytics-sample",
+        "url": "https://www.kaggle.com/datasets/bigquery/google-analytics-sample",
+        "subtitle": "Google Analytics Sample (BigQuery)",
+        "totalbytes": 0
+    },
+    {
+        "id": 22951,
+        "ref": "theworldbank/world-bank-intl-education",
+        "url": "https://www.kaggle.com/datasets/theworldbank/world-bank-intl-education",
+        "subtitle": "World Bank: Education Data (BigQuery Dataset)",
+        "totalbytes": 0
+    },
+    {
+        "id": 22268,
+        "ref": "bigquery/google-analytics-sample",
+        "url": "https://www.kaggle.com/datasets/bigquery/google-analytics-sample",
+        "subtitle": "Google Analytics Sample (BigQuery)",
+        "totalbytes": 0
+    },
+    {
+        "id": 5779,
+        "ref": "epa/epa-historical-air-quality",
+        "url": "https://www.kaggle.com/datasets/epa/epa-historical-air-quality",
+        "subtitle": "Air Quality Data Collected at Outdoor Monitors Across the US",
+        "totalbytes": 0
+    },
+    {
+        "id": 5836,
+        "ref": "open-aq/openaq",
+        "url": "https://www.kaggle.com/datasets/open-aq/openaq",
+        "subtitle": "Global Air Pollution Measurements",
+        "totalbytes": 0
+    },
+    {
+        "id": 22304,
+        "ref": "cms/cms-medicare",
+        "url": "https://www.kaggle.com/datasets/cms/cms-medicare",
+        "subtitle": "Medicare Data (BigQuery Dataset)",
+        "totalbytes": 0
+    },
+    {
+        "id": 22268,
+        "ref": "bigquery/google-analytics-sample",
+        "url": "https://www.kaggle.com/datasets/bigquery/google-analytics-sample",
+        "subtitle": "Google Analytics Sample (BigQuery)",
+        "totalbytes": 0
+    },
+    {
+        "id": 5837,
+        "ref": "usdot/nhtsa-traffic-fatalities",
+        "url": "https://www.kaggle.com/datasets/usdot/nhtsa-traffic-fatalities",
+        "subtitle": "Fatal car crashes for 2015-2016",
+        "totalbytes": 0
+    },
+    {
+        "id": 22090,
+        "ref": "chicago/chicago-crime",
+        "url": "https://www.kaggle.com/datasets/chicago/chicago-crime",
+        "subtitle": "Chicago Crime (BigQuery Dataset)",
+        "totalbytes": 0
+    },
+    {
+        "id": 22090,
+        "ref": "chicago/chicago-crime",
+        "url": "https://www.kaggle.com/datasets/chicago/chicago-crime",
+        "subtitle": "Chicago Crime (BigQuery Dataset)",
+        "totalbytes": 0
+    },
+    {
+        "id": 22526,
+        "ref": "LondonDataStore/london-crime",
+        "url": "https://www.kaggle.com/datasets/LondonDataStore/london-crime",
+        "subtitle": "Reported crime in London by borough and LSOA (BigQuery Dataset)",
+        "totalbytes": 0
+    },
+    {
+        "id": 6057,
+        "ref": "hacker-news/hacker-news",
+        "url": "https://www.kaggle.com/datasets/hacker-news/hacker-news",
+        "subtitle": "All posts from Y Combinator's social news website from 2006 to late 2017",
+        "totalbytes": 0
+    }
+]

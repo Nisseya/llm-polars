@@ -5,6 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "chardet>=5.2.0",
     "ipykernel>=7.0.1",
     "kaggle>=1.7.4.5",
     "polars>=1.34.0",

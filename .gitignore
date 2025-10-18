@@ -12,6 +12,7 @@ wheels/
 # Data
 data/sets/
 data/examples/
+logs/
 
 # secrets
 .env

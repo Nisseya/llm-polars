@@ -1,0 +1,1856 @@
+[
+    [
+        {
+            "name": "Area_Name",
+            "dtype": "String",
+            "non_null_sample": [
+                "Mizoram",
+                "Lakshadweep",
+                "Kerala"
+            ]
+        },
+        {
+            "name": "Year",
+            "dtype": "Int64",
+            "non_null_sample": [
+                2001,
+                2002,
+                2003
+            ]
+        },
+        {
+            "name": "Group_Name",
+            "dtype": "String",
+            "non_null_sample": [
+                "Robbery - Property",
+                "Burglary - Property",
+                "Theft - Property"
+            ]
+        },
+        {
+            "name": "Sub_Group_Name",
+            "dtype": "String",
+            "non_null_sample": [
+                "6. Other Property",
+                "1. Dacoity",
+                "2. Robbery"
+            ]
+        },
+        {
+            "name": "Cases_Property_Recovered",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Cases_Property_Stolen",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Value_of_Property_Recovered",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                300,
+                600
+            ]
+        },
+        {
+            "name": "Value_of_Property_Stolen",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1200,
+                1350
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Country",
+            "dtype": "String",
+            "non_null_sample": [
+                "Romania",
+                "Jordan",
+                "Egypt"
+            ]
+        },
+        {
+            "name": "Region",
+            "dtype": "String",
+            "non_null_sample": [
+                "Southern Asia",
+                "North America",
+                "Central and Eastern Europe"
+            ]
+        },
+        {
+            "name": "Happiness Rank",
+            "dtype": "Int64",
+            "non_null_sample": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "name": "Happiness Score",
+            "dtype": "Float64",
+            "non_null_sample": [
+                2.839,
+                2.905,
+                3.006
+            ]
+        },
+        {
+            "name": "Standard Error",
+            "dtype": "Float64",
+            "non_null_sample": [
+                0.01848,
+                0.01866,
+                0.02043
+            ]
+        },
+        {
+            "name": "Economy (GDP per Capita)",
+            "dtype": "Float64",
+            "non_null_sample": [
+                0.0,
+                0.0153,
+                0.01604
+            ]
+        },
+        {
+            "name": "Family",
+            "dtype": "Float64",
+            "non_null_sample": [
+                0.0,
+                0.13995,
+                0.30285
+            ]
+        },
+        {
+            "name": "Health (Life Expectancy)",
+            "dtype": "Float64",
+            "non_null_sample": [
+                0.0,
+                0.04776,
+                0.06699
+            ]
+        },
+        {
+            "name": "Freedom",
+            "dtype": "Float64",
+            "non_null_sample": [
+                0.0,
+                0.07699,
+                0.09245
+            ]
+        },
+        {
+            "name": "Trust (Government Corruption)",
+            "dtype": "Float64",
+            "non_null_sample": [
+                0.0,
+                0.00227,
+                0.00649
+            ]
+        },
+        {
+            "name": "Generosity",
+            "dtype": "Float64",
+            "non_null_sample": [
+                0.0,
+                0.00199,
+                0.02641
+            ]
+        },
+        {
+            "name": "Dystopia Residual",
+            "dtype": "Float64",
+            "non_null_sample": [
+                0.32858,
+                0.65429,
+                0.67042
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Adjusted Grade",
+            "dtype": "String",
+            "non_null_sample": [
+                "x"
+            ]
+        },
+        {
+            "name": "New?",
+            "dtype": "String",
+            "non_null_sample": [
+                "x"
+            ]
+        },
+        {
+            "name": "Other Location Code in LCGMS",
+            "dtype": "String",
+            "non_null_sample": [
+                "75k372"
+            ]
+        },
+        {
+            "name": "School Name",
+            "dtype": "String",
+            "non_null_sample": [
+                "P.S. 003 THE MARGARET GIOIOSA SCHOOL",
+                "JEAN NUZZI INTERMEDIATE SCHOOL",
+                "ACHIEVEMENT FIRST ENDEAVOR CHARTER SCHOOL"
+            ]
+        },
+        {
+            "name": "SED Code",
+            "dtype": "Int64",
+            "non_null_sample": [
+                307500013372,
+                310100010015,
+                310100010019
+            ]
+        },
+        {
+            "name": "Location Code",
+            "dtype": "String",
+            "non_null_sample": [
+                "84M518",
+                "18K114",
+                "21K098"
+            ]
+        },
+        {
+            "name": "District",
+            "dtype": "Int64",
+            "non_null_sample": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "name": "Latitude",
+            "dtype": "Float64",
+            "non_null_sample": [
+                40.507803,
+                40.508835,
+                40.510274
+            ]
+        },
+        {
+            "name": "Longitude",
+            "dtype": "Float64",
+            "non_null_sample": [
+                -74.244025,
+                -74.243221,
+                -74.230429
+            ]
+        },
+        {
+            "name": "Address (Full)",
+            "dtype": "String",
+            "non_null_sample": [
+                "1025 MORRISON AVE BRONX, NY 10472",
+                "580 CROTONA PARK S BRONX, NY 10456",
+                "325 BUSHWICK AVE BROOKLYN, NY 11206"
+            ]
+        },
+        {
+            "name": "City",
+            "dtype": "String",
+            "non_null_sample": [
+                "RICHMOND HILL",
+                "ROCKAWAY BEACH",
+                "ARVERNE"
+            ]
+        },
+        {
+            "name": "Zip",
+            "dtype": "Int64",
+            "non_null_sample": [
+                10001,
+                10002,
+                10003
+            ]
+        },
+        {
+            "name": "Grades",
+            "dtype": "String",
+            "non_null_sample": [
+                "06,07,08,09",
+                "PK,0K,01,02,03,04",
+                "03,04,05"
+            ]
+        },
+        {
+            "name": "Grade Low",
+            "dtype": "String",
+            "non_null_sample": [
+                "02",
+                "03",
+                "01"
+            ]
+        },
+        {
+            "name": "Grade High",
+            "dtype": "String",
+            "non_null_sample": [
+                "02",
+                "06",
+                "03"
+            ]
+        },
+        {
+            "name": "Community School?",
+            "dtype": "String",
+            "non_null_sample": [
+                "No",
+                "Yes"
+            ]
+        },
+        {
+            "name": "Economic Need Index",
+            "dtype": "Float64",
+            "non_null_sample": [
+                0.049,
+                0.059,
+                0.064
+            ]
+        },
+        {
+            "name": "School Income Estimate",
+            "dtype": "String",
+            "non_null_sample": [
+                "$27,808.12 ",
+                "$27,881.59 ",
+                "$34,155.60 "
+            ]
+        },
+        {
+            "name": "Percent ELL",
+            "dtype": "String",
+            "non_null_sample": [
+                "13%",
+                "18%",
+                "52%"
+            ]
+        },
+        {
+            "name": "Percent Asian",
+            "dtype": "String",
+            "non_null_sample": [
+                "9%",
+                "12%",
+                "47%"
+            ]
+        },
+        {
+            "name": "Percent Black",
+            "dtype": "String",
+            "non_null_sample": [
+                "75%",
+                "7%",
+                "80%"
+            ]
+        },
+        {
+            "name": "Percent Hispanic",
+            "dtype": "String",
+            "non_null_sample": [
+                "73%",
+                "44%",
+                "10%"
+            ]
+        },
+        {
+            "name": "Percent Black / Hispanic",
+            "dtype": "String",
+            "non_null_sample": [
+                "67%",
+                "79%",
+                "21%"
+            ]
+        },
+        {
+            "name": "Percent White",
+            "dtype": "String",
+            "non_null_sample": [
+                "17%",
+                "30%",
+                "31%"
+            ]
+        },
+        {
+            "name": "Student Attendance Rate",
+            "dtype": "String",
+            "non_null_sample": [
+                "94%",
+                "66%",
+                "84%"
+            ]
+        },
+        {
+            "name": "Percent of Students Chronically Absent",
+            "dtype": "String",
+            "non_null_sample": [
+                "48%",
+                "27%",
+                "26%"
+            ]
+        },
+        {
+            "name": "Rigorous Instruction %",
+            "dtype": "String",
+            "non_null_sample": [
+                "86%",
+                "95%",
+                "66%"
+            ]
+        },
+        {
+            "name": "Rigorous Instruction Rating",
+            "dtype": "String",
+            "non_null_sample": [
+                "Approaching Target",
+                "Meeting Target",
+                "Exceeding Target"
+            ]
+        },
+        {
+            "name": "Collaborative Teachers %",
+            "dtype": "String",
+            "non_null_sample": [
+                "83%",
+                "94%",
+                "69%"
+            ]
+        },
+        {
+            "name": "Collaborative Teachers Rating",
+            "dtype": "String",
+            "non_null_sample": [
+                "Approaching Target",
+                "Not Meeting Target",
+                "Exceeding Target"
+            ]
+        },
+        {
+            "name": "Supportive Environment %",
+            "dtype": "String",
+            "non_null_sample": [
+                "90%",
+                "88%",
+                "100%"
+            ]
+        },
+        {
+            "name": "Supportive Environment Rating",
+            "dtype": "String",
+            "non_null_sample": [
+                "Approaching Target",
+                "Meeting Target",
+                "Exceeding Target"
+            ]
+        },
+        {
+            "name": "Effective School Leadership %",
+            "dtype": "String",
+            "non_null_sample": [
+                "45%",
+                "53%",
+                "99%"
+            ]
+        },
+        {
+            "name": "Effective School Leadership Rating",
+            "dtype": "String",
+            "non_null_sample": [
+                "Meeting Target",
+                "Exceeding Target",
+                "Not Meeting Target"
+            ]
+        },
+        {
+            "name": "Strong Family-Community Ties %",
+            "dtype": "String",
+            "non_null_sample": [
+                "82%",
+                "69%",
+                "91%"
+            ]
+        },
+        {
+            "name": "Strong Family-Community Ties Rating",
+            "dtype": "String",
+            "non_null_sample": [
+                "Not Meeting Target",
+                "Exceeding Target",
+                "Meeting Target"
+            ]
+        },
+        {
+            "name": "Trust %",
+            "dtype": "String",
+            "non_null_sample": [
+                "100%",
+                "75%",
+                "94%"
+            ]
+        },
+        {
+            "name": "Trust Rating",
+            "dtype": "String",
+            "non_null_sample": [
+                "Approaching Target",
+                "Not Meeting Target",
+                "Exceeding Target"
+            ]
+        },
+        {
+            "name": "Student Achievement Rating",
+            "dtype": "String",
+            "non_null_sample": [
+                "Approaching Target",
+                "Exceeding Target",
+                "Not Meeting Target"
+            ]
+        },
+        {
+            "name": "Average ELA Proficiency",
+            "dtype": "Float64",
+            "non_null_sample": [
+                1.81,
+                1.9,
+                1.91
+            ]
+        },
+        {
+            "name": "Average Math Proficiency",
+            "dtype": "Float64",
+            "non_null_sample": [
+                1.83,
+                1.89,
+                1.9
+            ]
+        },
+        {
+            "name": "Grade 3 ELA - All Students Tested",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                10,
+                11
+            ]
+        },
+        {
+            "name": "Grade 3 ELA 4s - All Students",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 3 ELA 4s - American Indian or Alaska Native",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 3 ELA 4s - Black or African American",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 3 ELA 4s - Hispanic or Latino",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 3 ELA 4s - Asian or Pacific Islander",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 3 ELA 4s - White",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 3 ELA 4s - Multiracial",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 3 ELA 4s - Limited English Proficient",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 3 ELA 4s - Economically Disadvantaged",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 3 Math - All Students tested",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                9,
+                10
+            ]
+        },
+        {
+            "name": "Grade 3 Math 4s - All Students",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 3 Math 4s - American Indian or Alaska Native",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 3 Math 4s - Black or African American",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 3 Math 4s - Hispanic or Latino",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 3 Math 4s - Asian or Pacific Islander",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 3 Math 4s - White",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 3 Math 4s - Multiracial",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 3 Math 4s - Limited English Proficient",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 3 Math 4s - Economically Disadvantaged",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 4 ELA - All Students Tested",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                5,
+                6
+            ]
+        },
+        {
+            "name": "Grade 4 ELA 4s - All Students",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 4 ELA 4s - American Indian or Alaska Native",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 4 ELA 4s - Black or African American",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 4 ELA 4s - Hispanic or Latino",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 4 ELA 4s - Asian or Pacific Islander",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 4 ELA 4s - White",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 4 ELA 4s - Multiracial",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                3
+            ]
+        },
+        {
+            "name": "Grade 4 ELA 4s - Limited English Proficient",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 4 ELA 4s - Economically Disadvantaged",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 4 Math - All Students Tested",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                5,
+                6
+            ]
+        },
+        {
+            "name": "Grade 4 Math 4s - All Students",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 4 Math 4s - American Indian or Alaska Native",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 4 Math 4s - Black or African American",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 4 Math 4s - Hispanic or Latino",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 4 Math 4s - Asian or Pacific Islander",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 4 Math 4s - White",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 4 Math 4s - Multiracial",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                2,
+                3
+            ]
+        },
+        {
+            "name": "Grade 4 Math 4s - Limited English Proficient",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 4 Math 4s - Economically Disadvantaged",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 5 ELA - All Students Tested",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                7,
+                10
+            ]
+        },
+        {
+            "name": "Grade 5 ELA 4s - All Students",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 5 ELA 4s - American Indian or Alaska Native",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                4
+            ]
+        },
+        {
+            "name": "Grade 5 ELA 4s - Black or African American",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 5 ELA 4s - Hispanic or Latino",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 5 ELA 4s - Asian or Pacific Islander",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 5 ELA 4s - White",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 5 ELA 4s - Multiracial",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 5 ELA 4s - Limited English Proficient",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                3
+            ]
+        },
+        {
+            "name": "Grade 5 ELA 4s - Economically Disadvantaged",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 5 Math - All Students Tested",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                8,
+                10
+            ]
+        },
+        {
+            "name": "Grade 5 Math 4s - All Students",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 5 Math 4s - American Indian or Alaska Native",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                3
+            ]
+        },
+        {
+            "name": "Grade 5 Math 4s - Black or African American",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 5 Math 4s - Hispanic or Latino",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 5 Math 4s - Asian or Pacific Islander",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 5 Math 4s - White",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 5 Math 4s - Multiracial",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 5 Math 4s - Limited English Proficient",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 5 Math 4s - Economically Disadvantaged",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 6 ELA - All Students Tested",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                7,
+                10
+            ]
+        },
+        {
+            "name": "Grade 6 ELA 4s - All Students",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 6 ELA 4s - American Indian or Alaska Native",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 6 ELA 4s - Black or African American",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 6 ELA 4s - Hispanic or Latino",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 6 ELA 4s - Asian or Pacific Islander",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 6 ELA 4s - White",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 6 ELA 4s - Multiracial",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                2,
+                3
+            ]
+        },
+        {
+            "name": "Grade 6 ELA 4s - Limited English Proficient",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 6 ELA 4s - Economically Disadvantaged",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 6 Math - All Students Tested",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                7,
+                9
+            ]
+        },
+        {
+            "name": "Grade 6 Math 4s - All Students",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 6 Math 4s - American Indian or Alaska Native",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 6 Math 4s - Black or African American",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 6 Math 4s - Hispanic or Latino",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 6 Math 4s - Asian or Pacific Islander",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 6 Math 4s - White",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 6 Math 4s - Multiracial",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                2,
+                5
+            ]
+        },
+        {
+            "name": "Grade 6 Math 4s - Limited English Proficient",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 6 Math 4s - Economically Disadvantaged",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 7 ELA - All Students Tested",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                8,
+                10
+            ]
+        },
+        {
+            "name": "Grade 7 ELA 4s - All Students",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 7 ELA 4s - American Indian or Alaska Native",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 7 ELA 4s - Black or African American",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 7 ELA 4s - Hispanic or Latino",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 7 ELA 4s - Asian or Pacific Islander",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 7 ELA 4s - White",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 7 ELA 4s - Multiracial",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 7 ELA 4s - Limited English Proficient",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1
+            ]
+        },
+        {
+            "name": "Grade 7 ELA 4s - Economically Disadvantaged",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 7 Math - All Students Tested",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                8,
+                10
+            ]
+        },
+        {
+            "name": "Grade 7 Math 4s - All Students",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 7 Math 4s - American Indian or Alaska Native",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 7 Math 4s - Black or African American",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 7 Math 4s - Hispanic or Latino",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 7 Math 4s - Asian or Pacific Islander",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 7 Math 4s - White",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 7 Math 4s - Multiracial",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 7 Math 4s - Limited English Proficient",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 7 Math 4s - Economically Disadvantaged",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 8 ELA - All Students Tested",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                5,
+                6
+            ]
+        },
+        {
+            "name": "Grade 8 ELA 4s - All Students",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 8 ELA 4s - American Indian or Alaska Native",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 8 ELA 4s - Black or African American",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 8 ELA 4s - Hispanic or Latino",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 8 ELA 4s - Asian or Pacific Islander",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 8 ELA 4s - White",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 8 ELA 4s - Multiracial",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                4
+            ]
+        },
+        {
+            "name": "Grade 8 ELA 4s - Limited English Proficient",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1
+            ]
+        },
+        {
+            "name": "Grade 8 ELA 4s - Economically Disadvantaged",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 8 Math - All Students Tested",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                6,
+                8
+            ]
+        },
+        {
+            "name": "Grade 8 Math 4s - All Students",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 8 Math 4s - American Indian or Alaska Native",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 8 Math 4s - Black or African American",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 8 Math 4s - Hispanic or Latino",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 8 Math 4s - Asian or Pacific Islander",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 8 Math 4s - White",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 8 Math 4s - Multiracial",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                3
+            ]
+        },
+        {
+            "name": "Grade 8 Math 4s - Limited English Proficient",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Grade 8 Math 4s - Economically Disadvantaged",
+            "dtype": "Int64",
+            "non_null_sample": [
+                0,
+                1,
+                2
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Country",
+            "dtype": "String",
+            "non_null_sample": [
+                "Hong Kong",
+                "Costa Rica",
+                "France"
+            ]
+        },
+        {
+            "name": "Region",
+            "dtype": "String",
+            "non_null_sample": [
+                "Southern Asia",
+                "Australia and New Zealand",
+                "Middle East and Northern Africa"
+            ]
+        },
+        {
+            "name": "Happiness Rank",
+            "dtype": "Int64",
+            "non_null_sample": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "name": "Happiness Score",
+            "dtype": "Float64",
+            "non_null_sample": [
+                2.905,
+                3.069,
+                3.303
+            ]
+        },
+        {
+            "name": "Lower Confidence Interval",
+            "dtype": "Float64",
+            "non_null_sample": [
+                2.732,
+                2.936,
+                3.192
+            ]
+        },
+        {
+            "name": "Upper Confidence Interval",
+            "dtype": "Float64",
+            "non_null_sample": [
+                3.078,
+                3.202,
+                3.414
+            ]
+        },
+        {
+            "name": "Economy (GDP per Capita)",
+            "dtype": "Float64",
+            "non_null_sample": [
+                0.0,
+                0.05661,
+                0.06831
+            ]
+        },
+        {
+            "name": "Family",
+            "dtype": "Float64",
+            "non_null_sample": [
+                0.0,
+                0.10419,
+                0.11037
+            ]
+        },
+        {
+            "name": "Health (Life Expectancy)",
+            "dtype": "Float64",
+            "non_null_sample": [
+                0.0,
+                0.03824,
+                0.04476
+            ]
+        },
+        {
+            "name": "Freedom",
+            "dtype": "Float64",
+            "non_null_sample": [
+                0.0,
+                0.00589,
+                0.0432
+            ]
+        },
+        {
+            "name": "Trust (Government Corruption)",
+            "dtype": "Float64",
+            "non_null_sample": [
+                0.0,
+                0.00322,
+                0.00615
+            ]
+        },
+        {
+            "name": "Generosity",
+            "dtype": "Float64",
+            "non_null_sample": [
+                0.0,
+                0.02025,
+                0.02736
+            ]
+        },
+        {
+            "name": "Dystopia Residual",
+            "dtype": "Float64",
+            "non_null_sample": [
+                0.81789,
+                0.91681,
+                0.92614
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Country",
+            "dtype": "String",
+            "non_null_sample": [
+                "Spain",
+                "Denmark",
+                "Lithuania"
+            ]
+        },
+        {
+            "name": "Happiness.Rank",
+            "dtype": "Int64",
+            "non_null_sample": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "name": "Happiness.Score",
+            "dtype": "Float64",
+            "non_null_sample": [
+                2.69300007820129,
+                2.90499997138977,
+                3.34899997711182
+            ]
+        },
+        {
+            "name": "Whisker.high",
+            "dtype": "Float64",
+            "non_null_sample": [
+                2.86488426923752,
+                3.07469033300877,
+                3.46142975538969
+            ]
+        },
+        {
+            "name": "Whisker.low",
+            "dtype": "Float64",
+            "non_null_sample": [
+                2.52111588716507,
+                2.73530960977077,
+                3.23657019883394
+            ]
+        },
+        {
+            "name": "Economy..GDP.per.Capita.",
+            "dtype": "Float64",
+            "non_null_sample": [
+                0.0,
+                0.0226431842893362,
+                0.091622568666935
+            ]
+        },
+        {
+            "name": "Family",
+            "dtype": "Float64",
+            "non_null_sample": [
+                0.0,
+                0.396102607250214,
+                0.431882530450821
+            ]
+        },
+        {
+            "name": "Health..Life.Expectancy.",
+            "dtype": "Float64",
+            "non_null_sample": [
+                0.0,
+                0.00556475389748812,
+                0.0187726859003305
+            ]
+        },
+        {
+            "name": "Freedom",
+            "dtype": "Float64",
+            "non_null_sample": [
+                0.0,
+                0.0149958552792668,
+                0.0303698573261499
+            ]
+        },
+        {
+            "name": "Generosity",
+            "dtype": "Float64",
+            "non_null_sample": [
+                0.0,
+                0.010164656676352,
+                0.0288068410009146
+            ]
+        },
+        {
+            "name": "Trust..Government.Corruption.",
+            "dtype": "Float64",
+            "non_null_sample": [
+                0.0,
+                0.00438790069893003,
+                0.00896481610834599
+            ]
+        },
+        {
+            "name": "Dystopia.Residual",
+            "dtype": "Float64",
+            "non_null_sample": [
+                0.3779137134552,
+                0.419389247894287,
+                0.540061235427856
+            ]
+        }
+    ]
+]
