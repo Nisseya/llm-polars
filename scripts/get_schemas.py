@@ -3,21 +3,22 @@ import polars as pl
 import chardet
 from lib.error_logs import log_err
 import json
+from tqdm import tqdm
 
 def main():
     schemas = []
     filenames = [f for f in os.listdir("data/sets") if os.path.isfile(os.path.join("data/sets", f)) and f.endswith(".csv")]
     
-    for filename in filenames[:5]:
+    for filename in tqdm(filenames):
         with open(os.path.join("data/sets",filename),"rb") as f:
             content = f.read()
-        source_encoding = detect_encoding(content)
-        if source_encoding != "utf-8":
-            content = convert_bytes_to_utf8(content, source_encoding)
-        
-        sep = detect_sep(str(content[:10000]))
-        
         try:
+            source_encoding = detect_encoding(content)
+            if source_encoding != "utf-8":
+                content = convert_bytes_to_utf8(content, source_encoding)
+            
+            sep = detect_sep(str(content[:10000]))
+            
             df = pl.read_csv(
                 content, 
                 separator= sep,
@@ -31,7 +32,12 @@ def main():
             continue
         
         schema = extract_schema(df)
-        schemas.append(schema)
+        schemas.append(
+            {
+            "file":filename, 
+            "schema": schema
+            }
+            )
         
     with open("data/schemas.json",'w',encoding="utf-8") as f:
         json.dump(schemas,f,ensure_ascii=False,indent=4)
@@ -71,8 +77,5 @@ def extract_schema(df: pl.DataFrame)->list[dict]:
     ]
 
 
-
-        
-        
 if __name__=="__main__":
     main()

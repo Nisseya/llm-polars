@@ -1,5 +1,5 @@
 from scripts.download_datasets import main as download
-from scripts.enhance_csv import main as enhance
+from scripts.get_schemas import main as enhance
 from scripts.list_datasets import main as list
 
 import os, json

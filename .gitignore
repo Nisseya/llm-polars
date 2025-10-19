@@ -10,9 +10,9 @@ wheels/
 .venv
 
 # Data
-data/sets/
-data/examples/
+data/*
 logs/
+data/schemas.json
 
 # secrets
 .env
