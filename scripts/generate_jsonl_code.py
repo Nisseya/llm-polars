@@ -8,7 +8,7 @@ def main():
     
     filenames = get_mapped_filenames()
     
-    with open("data/Schemas.json","r", encoding="utf-8") as f:
+    with open("data/schemas.json","r", encoding="utf-8") as f:
         schemas = json.load(f)
     
     for i,jsonl_path in enumerate(jsonl_question_paths):

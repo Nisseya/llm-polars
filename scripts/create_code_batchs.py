@@ -45,7 +45,7 @@ def main():
     batchs = sorted([p for p in Path("data/code_jobs").iterdir()])
     
     for batch in tqdm(batchs[20:]):
-        if already_recorded(batch.name):
+        if already_recorded(batch.name): #20 files missing
             print("already_recorded")
             continue
         

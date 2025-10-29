@@ -43,7 +43,7 @@ def main():
     batchs = os.listdir("data/question_jobs")
     batchs = sorted([p for p in Path("data/question_jobs").iterdir()])
     
-    for batch in tqdm(batchs[20:]):
+    for batch in tqdm(batchs):
         if already_recorded(batch.name):
             print("already_recorded")
             continue
